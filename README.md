@@ -37,7 +37,7 @@ Learn more at the [NLnet project page](https://nlnet.nl/project/OpenBMS).
 | BMS Tests |  ❌ Not started |
 | Documentation | ❌ Not started |
 
-For OpenBMS Load hardware (schematic and PCB layout) file check [OpenBMS-load-hardware](https://github.com/momak473/openbms-load-hardware)
+For OpenBMS Load hardware (schematic and PCB layout) file check [OpenBMS-load-hardware](https://github.com/open-batt/openbms-load-hardware)
 
 ## Features
 
