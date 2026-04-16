@@ -1,0 +1,2309 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "3abe05a4-d5e0-4a77-8655-1b6b9f639808")
+	(paper "A3")
+	(title_block
+		(title "OpenBMS")
+		(date "2026-03-24")
+		(rev "A")
+		(comment 2 "More at openbatt.dev")
+		(comment 3 "Designed by OpenBatt team")
+		(comment 4 "Open Source Battery Management System")
+	)
+	(lib_symbols)
+	(text_box "About:\n- 2-cell to 7-cell battery managment system designed to handle and protect Li-Ion and Li-Po batteries.\n\nFeatures:\n- Estimates battery state of charge (SoC), state of health (SoH) and others\n- Reads battery voltage, cells voltages and battery current\n- Reads battery temperature (NTC) and ambient (board) temperature\n- Balances battery cells\n- Provides I2C and CAN communications to the user\n- Powerdown mode consumes < 2uA\n\nProtections - there are 3 levels of protection\n- Software protections, MCU control, safelty shuting down battery charge/discharge\n- Hardware protection (TPS1200 switch) which detect battery overvoltage and overcurrent and shuts it down, independetly of MCU\n- Fuse and TVS protection - in case that software and TPS1200 switch fails, there is a fuse which burns and physically disconnects the battery.\n"
+		(exclude_from_sim no)
+		(at 17.78 17.78 0)
+		(size 116.84 38.1)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0.3048)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.1588)
+			)
+			(justify left top)
+		)
+		(uuid "bfec821c-c65a-4d7f-9356-3a1ade76769b")
+	)
+	(junction
+		(at 306.07 143.51)
+		(diameter 0)
+		(color 132 0 0 1)
+		(uuid "c95dcd15-3d31-4411-a1b7-b68c6ca7570e")
+	)
+	(wire
+		(pts
+			(xy 83.82 119.38) (xy 111.76 119.38)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "020857b8-7e67-45f7-9afa-a2173a847a1a")
+	)
+	(wire
+		(pts
+			(xy 177.8 167.64) (xy 254 167.64)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 0 1)
+		)
+		(uuid "040d41c9-7bef-47ba-ac67-a0852fda3ceb")
+	)
+	(wire
+		(pts
+			(xy 114.3 116.84) (xy 83.82 116.84)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "065aabfb-5935-4348-bb50-cc95f0cb0376")
+	)
+	(wire
+		(pts
+			(xy 114.3 152.4) (xy 114.3 116.84)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "0d2b4148-9591-4d90-a553-ac9a35452fe8")
+	)
+	(wire
+		(pts
+			(xy 177.8 162.56) (xy 254 162.56)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 0 1)
+		)
+		(uuid "0dc255c8-2c79-43c4-ae72-fd5dc3c0068e")
+	)
+	(wire
+		(pts
+			(xy 83.82 114.3) (xy 116.84 114.3)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "108323b1-2df1-4d79-8b60-aca5a383ad31")
+	)
+	(wire
+		(pts
+			(xy 109.22 157.48) (xy 109.22 121.92)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "1b1d9010-dfbf-455e-be38-c889f907e4c2")
+	)
+	(wire
+		(pts
+			(xy 111.76 119.38) (xy 111.76 154.94)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "1bf2d03d-bc64-40d8-a1b2-2d45642cccb1")
+	)
+	(wire
+		(pts
+			(xy 177.8 129.54) (xy 180.34 129.54)
+		)
+		(stroke
+			(width 0.3048)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "1c6476f8-551c-40ab-825b-44ecd6ddb9a4")
+	)
+	(wire
+		(pts
+			(xy 95.25 212.09) (xy 95.25 138.43)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 204 102 0 1)
+		)
+		(uuid "2851197a-926a-4e0b-a90d-bce501bccf39")
+	)
+	(wire
+		(pts
+			(xy 104.14 127) (xy 83.82 127)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "2a38a93b-b52e-4c74-ae8e-971c1363011a")
+	)
+	(wire
+		(pts
+			(xy 132.08 157.48) (xy 109.22 157.48)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "2a544fde-d6b4-4c56-9172-b0c175004c23")
+	)
+	(wire
+		(pts
+			(xy 177.8 182.88) (xy 254 182.88)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 0 0 132 1)
+		)
+		(uuid "32ad96e6-23ba-43f9-839b-0052f5ae4fe0")
+	)
+	(wire
+		(pts
+			(xy 177.8 100.33) (xy 312.42 100.33)
+		)
+		(stroke
+			(width 1.016)
+			(type default)
+			(color 0 72 72 1)
+		)
+		(uuid "3a5d7623-7416-4bd4-bc3c-6018353bcfdf")
+	)
+	(wire
+		(pts
+			(xy 306.07 143.51) (xy 306.07 165.1)
+		)
+		(stroke
+			(width 0.3048)
+			(type default)
+			(color 132 0 0 1)
+		)
+		(uuid "43364b39-701b-488e-98c3-bed8e03594b2")
+	)
+	(wire
+		(pts
+			(xy 106.68 160.02) (xy 132.08 160.02)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "4389fdfc-f517-4e78-956f-a2541bc49a54")
+	)
+	(wire
+		(pts
+			(xy 177.8 111.76) (xy 254 111.76)
+		)
+		(stroke
+			(width 0.3048)
+			(type default)
+			(color 0 0 132 1)
+		)
+		(uuid "4740cbb5-a0b5-4c6c-8356-6a95967488a9")
+	)
+	(wire
+		(pts
+			(xy 177.8 180.34) (xy 254 180.34)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 0 0 132 1)
+		)
+		(uuid "48692bdc-beb7-4826-99b7-72c921431455")
+	)
+	(wire
+		(pts
+			(xy 132.08 162.56) (xy 104.14 162.56)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "48bc0c96-b185-4f0c-8245-5af4ba139749")
+	)
+	(wire
+		(pts
+			(xy 284.48 171.45) (xy 312.42 171.45)
+		)
+		(stroke
+			(width 0.3048)
+			(type default)
+			(color 132 0 0 1)
+		)
+		(uuid "4a8bbbf6-5d41-4734-82fa-4aa2eb305ee4")
+	)
+	(wire
+		(pts
+			(xy 106.68 124.46) (xy 106.68 160.02)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "4bbaf7c0-de16-4b46-a422-1448997da256")
+	)
+	(wire
+		(pts
+			(xy 177.8 104.14) (xy 312.42 104.14)
+		)
+		(stroke
+			(width 1.016)
+			(type default)
+			(color 0 72 72 1)
+		)
+		(uuid "4e323c16-ec4c-4f2d-9573-843804afdee9")
+	)
+	(wire
+		(pts
+			(xy 83.82 124.46) (xy 106.68 124.46)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "5a8f1607-e042-44e0-bce6-93902a2ebd71")
+	)
+	(wire
+		(pts
+			(xy 101.6 129.54) (xy 101.6 165.1)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "5ab7de5a-12b1-43d5-b29b-7c27698c3e79")
+	)
+	(wire
+		(pts
+			(xy 306.07 143.51) (xy 312.42 143.51)
+		)
+		(stroke
+			(width 0.3048)
+			(type default)
+			(color 132 0 0 1)
+		)
+		(uuid "5ba08052-4dff-4281-add2-ce9c82589fc0")
+	)
+	(wire
+		(pts
+			(xy 284.48 168.91) (xy 312.42 168.91)
+		)
+		(stroke
+			(width 0.3048)
+			(type default)
+			(color 132 0 0 1)
+		)
+		(uuid "650affa6-296a-47eb-b74d-7dd88c2b80bb")
+	)
+	(wire
+		(pts
+			(xy 364.49 86.36) (xy 364.49 165.1)
+		)
+		(stroke
+			(width 1.016)
+			(type solid)
+			(color 0 72 72 1)
+		)
+		(uuid "683c3834-491a-4668-90ad-8ef183aab0ce")
+	)
+	(wire
+		(pts
+			(xy 83.82 129.54) (xy 101.6 129.54)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "688f1089-999d-4a75-b7c4-f3832949b783")
+	)
+	(wire
+		(pts
+			(xy 180.34 129.54) (xy 180.34 147.32)
+		)
+		(stroke
+			(width 0.3048)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "6e111667-6a77-44a9-be22-0e16bc273353")
+	)
+	(wire
+		(pts
+			(xy 177.8 86.36) (xy 364.49 86.36)
+		)
+		(stroke
+			(width 1.016)
+			(type default)
+			(color 0 72 72 1)
+		)
+		(uuid "6fc95f6a-a2c4-4dcd-86b8-8ec6bcc57589")
+	)
+	(wire
+		(pts
+			(xy 284.48 133.35) (xy 312.42 133.35)
+		)
+		(stroke
+			(width 0.3048)
+			(type default)
+			(color 132 0 0 1)
+		)
+		(uuid "703ad5d5-26ff-41ea-a915-bb729c050b61")
+	)
+	(wire
+		(pts
+			(xy 95.25 138.43) (xy 83.82 138.43)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 204 102 0 1)
+		)
+		(uuid "70ac1704-164f-4dff-8e79-125f81f47745")
+	)
+	(wire
+		(pts
+			(xy 284.48 135.89) (xy 312.42 135.89)
+		)
+		(stroke
+			(width 0.3048)
+			(type default)
+			(color 132 0 0 1)
+		)
+		(uuid "7187cbe8-4f26-450b-89e9-012ba3d9944e")
+	)
+	(wire
+		(pts
+			(xy 177.8 165.1) (xy 254 165.1)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 0 1)
+		)
+		(uuid "739ec968-8d5c-4e2e-9f65-90014eaf9c8f")
+	)
+	(wire
+		(pts
+			(xy 109.22 121.92) (xy 83.82 121.92)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "7b98765b-7eb0-46a2-ac1a-e6f97937ef31")
+	)
+	(wire
+		(pts
+			(xy 254 212.09) (xy 95.25 212.09)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 204 102 0 1)
+		)
+		(uuid "7d57b99d-9bcd-4ae8-9606-41fe14f3855f")
+	)
+	(wire
+		(pts
+			(xy 180.34 147.32) (xy 177.8 147.32)
+		)
+		(stroke
+			(width 0.3048)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "7e07466f-cf7a-41c6-89b4-be7ce6c53284")
+	)
+	(wire
+		(pts
+			(xy 284.48 128.27) (xy 312.42 128.27)
+		)
+		(stroke
+			(width 0.3048)
+			(type default)
+			(color 132 0 0 1)
+		)
+		(uuid "8b0d40d9-d581-4d40-9999-aee27d844d0d")
+	)
+	(wire
+		(pts
+			(xy 177.8 116.84) (xy 254 116.84)
+		)
+		(stroke
+			(width 0.3048)
+			(type default)
+			(color 0 0 132 1)
+		)
+		(uuid "8f5416ff-79de-4af1-ad58-d80303becceb")
+	)
+	(wire
+		(pts
+			(xy 83.82 104.14) (xy 132.08 104.14)
+		)
+		(stroke
+			(width 1.016)
+			(type solid)
+			(color 132 0 132 1)
+		)
+		(uuid "8fa45c5d-99b8-42dd-8daa-c526f0db18c1")
+	)
+	(wire
+		(pts
+			(xy 132.08 147.32) (xy 119.38 147.32)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "910d5a0a-886c-4469-a402-dd7e746415ee")
+	)
+	(wire
+		(pts
+			(xy 177.8 149.86) (xy 182.88 149.86)
+		)
+		(stroke
+			(width 0.3048)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "95902035-b388-46ed-be61-7d57311f3cbe")
+	)
+	(wire
+		(pts
+			(xy 177.8 172.72) (xy 254 172.72)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 0 1)
+		)
+		(uuid "984f704f-1b67-4470-b4e3-b4346cad5c04")
+	)
+	(wire
+		(pts
+			(xy 177.8 185.42) (xy 254 185.42)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 0 0 132 1)
+		)
+		(uuid "9ad471b7-8682-4284-89bf-215978a7ce26")
+	)
+	(wire
+		(pts
+			(xy 92.71 214.63) (xy 254 214.63)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 204 102 0 1)
+		)
+		(uuid "9ef891e1-6e05-47f4-9a2b-9fc205030674")
+	)
+	(wire
+		(pts
+			(xy 116.84 149.86) (xy 132.08 149.86)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "a1440855-9720-4bee-b5d1-63a00a693759")
+	)
+	(wire
+		(pts
+			(xy 92.71 140.97) (xy 92.71 214.63)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 204 102 0 1)
+		)
+		(uuid "a2d13890-4598-4a92-8a45-8b82d526761d")
+	)
+	(wire
+		(pts
+			(xy 119.38 147.32) (xy 119.38 111.76)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "a3e99495-f67d-4e19-b401-700e83210665")
+	)
+	(wire
+		(pts
+			(xy 177.8 193.04) (xy 254 193.04)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 0 0 132 1)
+		)
+		(uuid "a4a90e77-46f3-4f76-98fd-51a909f1d582")
+	)
+	(wire
+		(pts
+			(xy 116.84 114.3) (xy 116.84 149.86)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "a5d3dd40-132e-4221-9efd-6dd7d2d935aa")
+	)
+	(wire
+		(pts
+			(xy 177.8 203.2) (xy 254 203.2)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 0 0 132 1)
+		)
+		(uuid "aad30f4e-3205-44c2-a3d1-dfe9393cc59c")
+	)
+	(wire
+		(pts
+			(xy 284.48 125.73) (xy 312.42 125.73)
+		)
+		(stroke
+			(width 0.3048)
+			(type default)
+			(color 132 0 0 1)
+		)
+		(uuid "ab1fde84-a390-48e4-a073-1d8249809e68")
+	)
+	(wire
+		(pts
+			(xy 177.8 200.66) (xy 254 200.66)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 0 0 132 1)
+		)
+		(uuid "b1995701-0679-43c7-91c2-aaf313ce8191")
+	)
+	(wire
+		(pts
+			(xy 284.48 143.51) (xy 306.07 143.51)
+		)
+		(stroke
+			(width 0.3048)
+			(type default)
+			(color 132 0 0 1)
+		)
+		(uuid "b910a560-f6df-4750-a7de-367fdaaecc8f")
+	)
+	(wire
+		(pts
+			(xy 119.38 111.76) (xy 83.82 111.76)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "bac832a9-373d-430f-8278-fd1016131218")
+	)
+	(wire
+		(pts
+			(xy 284.48 138.43) (xy 312.42 138.43)
+		)
+		(stroke
+			(width 0.3048)
+			(type default)
+			(color 132 0 0 1)
+		)
+		(uuid "bcce352e-8521-40d3-b9aa-7339988a2a15")
+	)
+	(wire
+		(pts
+			(xy 182.88 149.86) (xy 182.88 127)
+		)
+		(stroke
+			(width 0.3048)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "bdb7b855-891c-482d-a4fa-89d333bfe979")
+	)
+	(wire
+		(pts
+			(xy 364.49 165.1) (xy 351.79 165.1)
+		)
+		(stroke
+			(width 1.016)
+			(type solid)
+			(color 0 72 72 1)
+		)
+		(uuid "bfb373ab-6c92-47f8-8ee8-af92bea422c4")
+	)
+	(wire
+		(pts
+			(xy 177.8 160.02) (xy 254 160.02)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 0 1)
+		)
+		(uuid "c16f6370-bdf8-4732-bf7b-25f6d8caeacb")
+	)
+	(wire
+		(pts
+			(xy 177.8 190.5) (xy 254 190.5)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 0 0 132 1)
+		)
+		(uuid "c70d6d83-5f0f-4a7a-a466-eb6189bcfeb8")
+	)
+	(wire
+		(pts
+			(xy 177.8 195.58) (xy 254 195.58)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 0 0 132 1)
+		)
+		(uuid "c8c2fd89-34da-4b49-8b3d-7775421200de")
+	)
+	(wire
+		(pts
+			(xy 177.8 119.38) (xy 254 119.38)
+		)
+		(stroke
+			(width 0.3048)
+			(type default)
+			(color 0 0 132 1)
+		)
+		(uuid "c9e1df4d-6616-4334-906b-c6cc48eed459")
+	)
+	(wire
+		(pts
+			(xy 83.82 100.33) (xy 132.08 100.33)
+		)
+		(stroke
+			(width 1.016)
+			(type solid)
+			(color 132 0 132 1)
+		)
+		(uuid "cb7bf9f9-fb4b-4c65-9640-6de631543e68")
+	)
+	(wire
+		(pts
+			(xy 177.8 114.3) (xy 254 114.3)
+		)
+		(stroke
+			(width 0.3048)
+			(type default)
+			(color 0 0 132 1)
+		)
+		(uuid "d0c13acf-4c91-4596-9c16-083e098395f6")
+	)
+	(wire
+		(pts
+			(xy 111.76 154.94) (xy 132.08 154.94)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "d3b57b83-b76f-4f77-a0c9-c4a83aaa9c13")
+	)
+	(wire
+		(pts
+			(xy 177.8 121.92) (xy 254 121.92)
+		)
+		(stroke
+			(width 0.3048)
+			(type default)
+			(color 0 0 132 1)
+		)
+		(uuid "d70493f9-8813-441c-83df-178cd6236ba2")
+	)
+	(wire
+		(pts
+			(xy 177.8 175.26) (xy 254 175.26)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 0 1)
+		)
+		(uuid "d71f11f5-7e04-4271-bf3b-ae7dc8bd53b7")
+	)
+	(wire
+		(pts
+			(xy 101.6 165.1) (xy 132.08 165.1)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "e3fb0b07-bd1b-4e24-8fea-664e0f89f689")
+	)
+	(wire
+		(pts
+			(xy 306.07 165.1) (xy 312.42 165.1)
+		)
+		(stroke
+			(width 0.3048)
+			(type default)
+			(color 132 0 0 1)
+		)
+		(uuid "e46f20a0-e299-4333-8e1a-e06aa6f07cb3")
+	)
+	(wire
+		(pts
+			(xy 182.88 127) (xy 177.8 127)
+		)
+		(stroke
+			(width 0.3048)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "e8995689-eab0-4e4a-90d8-726cbaf1b38b")
+	)
+	(wire
+		(pts
+			(xy 104.14 162.56) (xy 104.14 127)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "ea27fe24-db75-45b0-93c6-0a2b89fcfc69")
+	)
+	(wire
+		(pts
+			(xy 132.08 152.4) (xy 114.3 152.4)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(uuid "f6ef8904-f5a1-4226-8a07-ee6830926837")
+	)
+	(wire
+		(pts
+			(xy 83.82 140.97) (xy 92.71 140.97)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 204 102 0 1)
+		)
+		(uuid "f846aa49-f8ed-400c-8363-ea7b5e178930")
+	)
+	(wire
+		(pts
+			(xy 177.8 187.96) (xy 254 187.96)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 0 0 132 1)
+		)
+		(uuid "fc1411ef-a841-4319-8a54-ec90778398fe")
+	)
+	(sheet
+		(at 254 107.95)
+		(size 30.48 111.76)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "302af32a-55be-4f16-ab06-1e334aa3d667")
+		(property "Sheetname" "MCU"
+			(at 254 107.696 0)
+			(effects
+				(font
+					(size 2.032 2.032)
+					(thickness 0.4064)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 254 220.2946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CELL_1_BAL" output
+			(at 254 195.58 180)
+			(uuid "315a30ba-1cfa-4a95-828e-6e773ab88621")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "CELL_4_BAL" output
+			(at 254 187.96 180)
+			(uuid "0fbb9618-03f9-4711-ab6f-06a5cc0eab7f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "CELL_7_BAL" output
+			(at 254 180.34 180)
+			(uuid "3e5e969a-7818-4d2d-a290-6d2877c0321c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "CELL_5_BAL" output
+			(at 254 185.42 180)
+			(uuid "88f60cc2-8779-4cb1-b95f-e135ea638a4e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "CELL_6_BAL" output
+			(at 254 182.88 180)
+			(uuid "ac4e09bb-1374-4310-93f1-d2e22039c574")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "CELL_3_BAL" output
+			(at 254 190.5 180)
+			(uuid "b29c2196-e8c6-4478-a296-735e50723a81")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "CELL_2_BAL" output
+			(at 254 193.04 180)
+			(uuid "8a4a132c-ef0d-48d1-8f26-1459d6da5676")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "SCLK" output
+			(at 254 160.02 180)
+			(uuid "4bc77d2f-7420-4020-bb4b-494ea69b767f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{CS}" output
+			(at 254 167.64 180)
+			(uuid "36bffba0-75e2-4793-956e-075d5931ab6e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "DRV_MAIN_EN" output
+			(at 254 111.76 180)
+			(uuid "d965a899-8175-4d71-afe7-576c7f70f483")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "DRV_FET_EN" output
+			(at 254 116.84 180)
+			(uuid "208505e6-74ce-466e-9e65-80645d559dbd")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "MOSI" output
+			(at 254 165.1 180)
+			(uuid "51428703-1f86-4d0e-8ad2-0f49d67364c4")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "DRV_PRE_FET_EN" output
+			(at 254 114.3 180)
+			(uuid "fc24724a-7a8f-4dc8-b23b-1b4bbc72f354")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{DRDY}" input
+			(at 254 175.26 180)
+			(uuid "f2e6db82-04fa-4962-972a-39f850165869")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "DRV_FLT_GD" input
+			(at 254 119.38 180)
+			(uuid "e44bd3b7-002e-4e34-9e63-0d3864c64bed")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "MISO" input
+			(at 254 162.56 180)
+			(uuid "cfb8a351-484d-420f-a662-a86d0c8c99e7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "MEAS_BAT" output
+			(at 254 200.66 180)
+			(uuid "b22cf24b-84c1-49db-9231-9288eb1ea4e8")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{DRV_FLT}" input
+			(at 254 121.92 180)
+			(uuid "3f2c8dfd-2e9f-41dd-b26a-a8aad374cbe0")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "MEAS_CELL" output
+			(at 254 203.2 180)
+			(uuid "640ea067-c78f-43eb-a1d9-8ecf9f9d4d16")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{SYNC}" input
+			(at 254 172.72 180)
+			(uuid "fd31d282-d5be-4978-9f35-29d255afe32b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "BATT_NTC_POS" input
+			(at 254 212.09 180)
+			(uuid "a4ce209c-8f17-4436-a02a-7ec91d626dad")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 204 102 0 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "BATT_NTC_GND" input
+			(at 254 214.63 180)
+			(uuid "379ab337-4833-4c03-84e1-82092a6b31e0")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 204 102 0 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "CAN_H" bidirectional
+			(at 284.48 125.73 0)
+			(uuid "8dae4d92-d7ab-4e7a-80cb-82d66383cc09")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_L" bidirectional
+			(at 284.48 128.27 0)
+			(uuid "79c2c08f-ee64-4304-8ccf-94bcd9962481")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C_SDA" bidirectional
+			(at 284.48 133.35 0)
+			(uuid "6f981ca2-5283-4918-8a57-3ab758310697")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C_SCL" bidirectional
+			(at 284.48 135.89 0)
+			(uuid "438f9cf5-e232-4db1-82bf-e6b722cb6f16")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C_INT" output
+			(at 284.48 138.43 0)
+			(uuid "dded48cf-6d1e-44c3-8366-34435c6a4720")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "WAKE_UP" input
+			(at 284.48 143.51 0)
+			(uuid "65f750b9-170d-48d1-b193-67b2a29c7bab")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "PWR_PG" input
+			(at 284.48 168.91 0)
+			(uuid "9efb8602-703a-4b8e-8a9e-734db436938d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "PWR_ON" output
+			(at 284.48 171.45 0)
+			(uuid "be775a8f-f4bd-4838-acde-b9ae7f8e71c9")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "openbms"
+				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 312.42 93.98)
+		(size 38.1 53.34)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3320e5aa-8139-4260-8613-0d5ed87b8ab6")
+		(property "Sheetname" "Output"
+			(at 312.42 92.8366 0)
+			(effects
+				(font
+					(size 2.032 2.032)
+					(thickness 0.508)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Output.kicad_sch"
+			(at 312.42 147.9554 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SYS_GND" bidirectional
+			(at 312.42 104.14 180)
+			(uuid "f60bb4ac-6f75-41e1-8625-d2b1f84eb948")
+			(effects
+				(font
+					(size 2.032 2.032)
+					(thickness 0.4064)
+					(bold yes)
+					(color 0 72 72 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "SYS_VCC" bidirectional
+			(at 312.42 100.33 180)
+			(uuid "60933d5d-b1b6-4f02-80c0-632d16f75d92")
+			(effects
+				(font
+					(size 2.032 2.032)
+					(thickness 0.4064)
+					(bold yes)
+					(color 0 72 72 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C_SDA" bidirectional
+			(at 312.42 133.35 180)
+			(uuid "8bf7a0aa-faaa-4eca-84f8-0ee4d626975c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "CAN_L" bidirectional
+			(at 312.42 128.27 180)
+			(uuid "66bcc850-3eeb-42ec-aaba-32d50a301d6e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C_SCL" bidirectional
+			(at 312.42 135.89 180)
+			(uuid "601efbab-8065-4f40-9f73-9dbaeaf3e8db")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "CAN_H" bidirectional
+			(at 312.42 125.73 180)
+			(uuid "bb161d7f-5d51-4541-ac4c-0dba3cb19038")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "WAKE_UP" output
+			(at 312.42 143.51 180)
+			(uuid "0d5af228-8b62-4379-933f-7c37b269ee04")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C_INT" input
+			(at 312.42 138.43 180)
+			(uuid "0a50baad-e155-4abe-8985-347dbae9a7db")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "openbms"
+				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 132.08 143.51)
+		(size 45.72 63.5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "44c0cfe5-542a-476d-9fa1-75e9132622a6")
+		(property "Sheetname" "ADC"
+			(at 132.08 142.7984 0)
+			(effects
+				(font
+					(size 2.032 2.032)
+					(thickness 0.4064)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ADC.kicad_sch"
+			(at 132.08 207.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "~{SYNC}" output
+			(at 177.8 172.72 0)
+			(uuid "b99f4dab-9534-405a-b5b1-f60c99d16821")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "CELL_5_BAL" input
+			(at 177.8 185.42 0)
+			(uuid "bd8be633-e911-4402-8a85-81c357e51a3d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "CELL_4_BAL" input
+			(at 177.8 187.96 0)
+			(uuid "37d89980-8d7c-44f7-8296-0a705625a646")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{CS}" input
+			(at 177.8 167.64 0)
+			(uuid "7a75b9da-ff65-4369-963e-35472c69d2d9")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "BATT_CELL_7" bidirectional
+			(at 132.08 162.56 180)
+			(uuid "e146c2b1-7df6-4d7d-a7cb-71c2f1f19b48")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 132 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "BATT_CELL_6" bidirectional
+			(at 132.08 160.02 180)
+			(uuid "7bf80f1a-f899-4d88-b41a-150b76ce11a9")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 132 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "BATT_CELL_2" bidirectional
+			(at 132.08 149.86 180)
+			(uuid "005ca1f1-7f91-4044-aea4-8ef87924bca4")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 132 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "BATT_CELL_3" bidirectional
+			(at 132.08 152.4 180)
+			(uuid "b5aa4f81-b285-4c40-94e7-37e5414fefbe")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 132 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "BATT_CELL_5" bidirectional
+			(at 132.08 157.48 180)
+			(uuid "929bc004-c011-4219-92e6-c8688c14cd28")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 132 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "BATT_CELL_4" bidirectional
+			(at 132.08 154.94 180)
+			(uuid "65667be4-0f90-4ea1-be97-9a81e550b03b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 132 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "BATT_CELL_1" bidirectional
+			(at 132.08 147.32 180)
+			(uuid "fbe75e4c-4195-4ab3-8e69-77b9aceb171a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 132 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "CELL_7_BAL" input
+			(at 177.8 180.34 0)
+			(uuid "38fd0ce3-c08c-43a4-b42e-b138815b848f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "CELL_1_BAL" input
+			(at 177.8 195.58 0)
+			(uuid "757328c1-0966-42d7-8153-fa9c9e0e804b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "CELL_3_BAL" input
+			(at 177.8 190.5 0)
+			(uuid "98e31c03-6afc-4c90-bb88-42dc1cf45ae3")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "CELL_2_BAL" input
+			(at 177.8 193.04 0)
+			(uuid "a8ac8dfe-89f7-4c20-b741-b1b2e4c6787f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "SCLK" input
+			(at 177.8 160.02 0)
+			(uuid "83116455-c9da-4474-b1e4-5042dad0f49d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "MOSI" input
+			(at 177.8 165.1 0)
+			(uuid "961cdff9-1f48-4c5a-8c71-672063803bde")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "MISO" output
+			(at 177.8 162.56 0)
+			(uuid "b94e529a-a451-4995-a494-375cd04d5e09")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "CELL_6_BAL" input
+			(at 177.8 182.88 0)
+			(uuid "979ed063-aefe-44c2-88f4-edab4e45090f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{DRDY}" output
+			(at 177.8 175.26 0)
+			(uuid "511d02e5-f143-49e6-ad1f-fe8cb6ffdc5e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "BATT_CELL_GND" bidirectional
+			(at 132.08 165.1 180)
+			(uuid "6a9164c1-47e1-4d96-a4c9-1c726f0897ff")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 132 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "MEAS_BAT" input
+			(at 177.8 200.66 0)
+			(uuid "a7f55100-83fb-477a-abe7-882145978be4")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "MEAS_CELL" input
+			(at 177.8 203.2 0)
+			(uuid "2b51ba9e-8001-4d2a-9393-59073db420c2")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "BATT_CS_NEG" input
+			(at 177.8 147.32 0)
+			(uuid "e2b90141-b14a-4df1-9408-004a84f9d6c8")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "BATT_CS_POS" input
+			(at 177.8 149.86 0)
+			(uuid "97467304-3f4c-408c-a308-619d19021631")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "openbms"
+				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 50.8 93.98)
+		(size 33.02 52.07)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8aeffcc1-bfe4-45b7-adeb-55d5e06a12ef")
+		(property "Sheetname" "Battery"
+			(at 50.8 93.2684 0)
+			(effects
+				(font
+					(size 2.032 2.032)
+					(thickness 0.4064)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Battery.kicad_sch"
+			(at 50.8 146.6346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BATT_CELL_4" bidirectional
+			(at 83.82 119.38 0)
+			(uuid "e4bb528f-f595-491c-a553-2c1232bcf284")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "BATT_CELL_1" bidirectional
+			(at 83.82 111.76 0)
+			(uuid "c7e10827-9bce-40ff-a49a-e3de9f81237f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "BATT_PWR_VCC" bidirectional
+			(at 83.82 100.33 0)
+			(uuid "bf36aa45-5e00-4799-b99c-0925b1a60651")
+			(effects
+				(font
+					(size 2.032 2.032)
+					(thickness 0.4064)
+					(bold yes)
+					(color 132 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "BATT_PWR_GND" bidirectional
+			(at 83.82 104.14 0)
+			(uuid "d5745ba8-821a-48ab-a22e-e68e0fee27d3")
+			(effects
+				(font
+					(size 2.032 2.032)
+					(thickness 0.4064)
+					(bold yes)
+					(color 132 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "BATT_CELL_2" bidirectional
+			(at 83.82 114.3 0)
+			(uuid "bccd4f33-440a-4633-9a8e-3c23be221206")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "BATT_CELL_GND" bidirectional
+			(at 83.82 129.54 0)
+			(uuid "7c9d8476-72b5-491b-8499-a134c5d0650e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "BATT_CELL_5" bidirectional
+			(at 83.82 121.92 0)
+			(uuid "5c51eb55-18dd-4125-a8e9-b7198893c580")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "BATT_CELL_6" bidirectional
+			(at 83.82 124.46 0)
+			(uuid "f0bec5c3-09ce-45ea-a0f6-3cc10ed82bb2")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "BATT_CELL_7" bidirectional
+			(at 83.82 127 0)
+			(uuid "4c7f4a9d-ef21-40e0-b9a6-a9cf567260af")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "BATT_CELL_3" bidirectional
+			(at 83.82 116.84 0)
+			(uuid "3f0d4c19-22c1-4f9c-bd4c-2b1582ce9342")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "BATT_NTC_POS" output
+			(at 83.82 138.43 0)
+			(uuid "fc1d3f5a-4a08-4f9f-8d31-60c442f19e12")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 204 102 0 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "BATT_NTC_GND" output
+			(at 83.82 140.97 0)
+			(uuid "014b52b4-76de-412e-a10b-a21fc93d00a3")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 204 102 0 1)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "openbms"
+				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 312.42 161.29)
+		(size 39.37 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c6bfda56-dfbf-41b9-83e7-9aead4bf3a01")
+		(property "Sheetname" "Power"
+			(at 312.42 160.1466 0)
+			(effects
+				(font
+					(size 2.032 2.032)
+					(thickness 0.4064)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 312.42 184.7854 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "WAKE_UP" input
+			(at 312.42 165.1 180)
+			(uuid "a7e11721-9d5f-49a0-b4d1-902107d78f08")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWR_PG" output
+			(at 312.42 168.91 180)
+			(uuid "697e838e-67e2-4c92-9364-e2fb44e9b1ec")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWR_ON" input
+			(at 312.42 171.45 180)
+			(uuid "a8989002-f230-4207-9a15-505aaeb2232b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "VCC_IN" input
+			(at 351.79 165.1 0)
+			(uuid "c52288d4-222e-44e2-8b6d-dce56ad26f4a")
+			(effects
+				(font
+					(size 2.032 2.032)
+					(thickness 0.4064)
+					(bold yes)
+					(color 0 72 72 1)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "openbms"
+				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 132.08 81.28)
+		(size 45.72 53.34)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c92ba047-3428-463c-8e45-3398093085a4")
+		(property "Sheetname" "FETs"
+			(at 132.08 80.1366 0)
+			(effects
+				(font
+					(size 2.032 2.032)
+					(thickness 0.4064)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FETs.kicad_sch"
+			(at 132.08 135.2554 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DRV_FET_EN" input
+			(at 177.8 116.84 0)
+			(uuid "a8813009-cce6-40ac-b8bc-3079d2efc977")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "DRV_FLT_GD" output
+			(at 177.8 119.38 0)
+			(uuid "c881d1d0-8176-469d-b15e-5e2f059c1e03")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{DRV_FLT}" output
+			(at 177.8 121.92 0)
+			(uuid "ab4b4209-ea3d-44d4-8ee1-aa60aa88183d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "DRV_MAIN_EN" input
+			(at 177.8 111.76 0)
+			(uuid "dddc0fe5-ae73-4779-96c4-053e5cfee60b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "BATT_PWR_VCC" bidirectional
+			(at 132.08 100.33 180)
+			(uuid "1834f408-0514-45a0-903a-9c2d70fe0a1c")
+			(effects
+				(font
+					(size 2.032 2.032)
+					(thickness 0.4064)
+					(bold yes)
+					(color 132 0 132 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "DRV_PRE_FET_EN" input
+			(at 177.8 114.3 0)
+			(uuid "5b7bb0ef-2411-486c-8b90-d0b8995642a1")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "SYS_VCC" bidirectional
+			(at 177.8 100.33 0)
+			(uuid "5ad63aca-c1b2-4480-a8c8-0dcf1acca578")
+			(effects
+				(font
+					(size 2.032 2.032)
+					(thickness 0.4064)
+					(bold yes)
+					(color 0 72 72 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "SYS_GND" bidirectional
+			(at 177.8 104.14 0)
+			(uuid "2d1e806c-be8f-4907-ad00-39b314f00e1b")
+			(effects
+				(font
+					(size 2.032 2.032)
+					(thickness 0.4064)
+					(bold yes)
+					(color 0 72 72 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "BATT_CS_NEG" output
+			(at 177.8 129.54 0)
+			(uuid "12bcca03-7b24-4675-875f-807f03f5f83b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "BATT_PWR_GND" bidirectional
+			(at 132.08 104.14 180)
+			(uuid "a72b26fb-054c-464e-a78c-5489b85a5ff6")
+			(effects
+				(font
+					(size 2.032 2.032)
+					(thickness 0.4064)
+					(bold yes)
+					(color 132 0 132 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "BATT_CS_POS" output
+			(at 177.8 127 0)
+			(uuid "afeac939-dfe0-4903-973a-98acc6afe743")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 132 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "BATT_PWR_VCC_FUSED" output
+			(at 177.8 86.36 0)
+			(uuid "2c541181-325f-4bbb-8896-696ff1c078c6")
+			(effects
+				(font
+					(size 2.032 2.032)
+					(thickness 0.4064)
+					(bold yes)
+					(color 0 72 72 1)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "openbms"
+				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
