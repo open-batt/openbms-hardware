@@ -12,6 +12,27 @@ OpenBMS is an **open-source battery management system** for 2 to 7-cell Li-Ion a
 -  **Protection** — guard against overcharging, overdischarging, overheating, and short circuits
 -  **Communication** — talk to chargers, displays, microcontrollers, and other devices
 
+<table>
+  <tr>
+    <td><img src="images/openbms-v3.png" alt="OpenBMS v3" width="100%" /></td>
+    <td><img src="images/openbms-v2.png" alt="OpenBMS v4" width="76%" /></td>
+  </tr>
+</table>
+
+## How OpenBMS fits into system?
+
+Battery system consists of:
+- 2 to 7-cell Li-ion/Li-po battery
+- OpenBMS
+- Host (I2C/CAN interfaces, wake-up signal)
+- 600W resistive load to discharge battery, check more at [OpenBMS-load-hardware](https://github.com/open-batt/openbms-load-hardware)
+- Charger
+  
+<img src="images/openbms_system.jpg" alt="OpenBMS v3" width="80%" />
+<img src="images/openbms_system_discharging.jpg" alt="OpenBMS v3" width="80%" />
+<img src="images/openbms_system_charging.jpg" alt="OpenBMS v3" width="80%" />
+
+
 ## ❤️ Funding
 
 This project is funded through [NGI0 Commons Fund](https://nlnet.nl/commonsfund), a fund established by [NLnet](https://nlnet.nl) with financial support from the European Commission's [Next Generation Internet](https://ngi.eu) program. 
@@ -21,6 +42,7 @@ This project is funded through [NGI0 Commons Fund](https://nlnet.nl/commonsfund)
 
 We are very grateful to the NLnet team for helping us on our path, and we encourage you too to apply and get funds to build your project! 🚀
 Learn more at the [NLnet project page](https://nlnet.nl/project/OpenBMS).
+
 
 
 ## ⚠️ Status: Work in progress
@@ -36,8 +58,6 @@ Learn more at the [NLnet project page](https://nlnet.nl/project/OpenBMS).
 | OpenBMS Load Hardware | 🏭 Manufacturing |
 | BMS Tests |  ❌ Not started |
 | Documentation | ❌ Not started |
-
-For OpenBMS Load hardware (schematic and PCB layout) file check [OpenBMS-load-hardware](https://github.com/open-batt/openbms-load-hardware)
 
 ## Features
 
