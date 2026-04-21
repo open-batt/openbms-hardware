@@ -1247,7 +1247,7 @@
 		(at 132.08 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp yes)
 		(uuid "09642ca3-152a-40c9-9cc2-a2e2c804d402")
@@ -1314,6 +1314,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 132.08 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6962fdc7-4d41-406c-a89c-9cc10f6632fe")
 		)
@@ -1334,7 +1343,7 @@
 		(at 132.08 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp yes)
 		(uuid "223b295b-3b71-4d6e-97c4-1f0343931c57")
@@ -1401,6 +1410,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 132.08 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "df02b3b1-3b2f-4d63-9747-b743ac3da586")
 		)
@@ -1421,7 +1439,7 @@
 		(at 132.08 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp yes)
 		(uuid "2524dc9c-35f4-4cd8-b737-db5be02aec89")
@@ -1488,6 +1506,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 132.08 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8c73b92f-467f-4e4a-a90a-21cfee49817f")
 		)
@@ -1508,7 +1535,7 @@
 		(at 132.08 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp yes)
 		(uuid "6a87db61-ce8c-4789-b62c-e3ea98a309e0")
@@ -1575,6 +1602,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 132.08 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6bb32390-67d6-4c4d-b411-fcf0bc81fb31")
 		)
@@ -1595,7 +1631,7 @@
 		(at 132.08 64.77 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp yes)
 		(uuid "7ba1dbad-373f-4bc6-853d-faf75aa2edbe")
@@ -1654,6 +1690,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "CR0402AJ/-000GAS"
+			(at 132.08 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 132.08 64.77 0)
 			(effects
 				(font
@@ -1733,7 +1778,7 @@
 				(hide yes)
 			)
 		)
-		(property "Pakcage" "2-pin JST connector"
+		(property "Package" "2-pin JST connector"
 			(at 106.68 120.65 0)
 			(effects
 				(font
@@ -1742,7 +1787,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Parrt_Number" "S2B-XH-A"
+		(property "Manufacturer_Part_Number" "S2B-XH-A"
+			(at 106.68 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 106.68 120.65 0)
 			(effects
 				(font
@@ -1832,6 +1886,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "S8B-XH-A"
+			(at 105.41 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 105.41 86.36 0)
 			(effects
 				(font
@@ -1936,6 +1999,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "XT60PW-M"
+			(at 106.68 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 106.68 134.62 0)
 			(effects
 				(font

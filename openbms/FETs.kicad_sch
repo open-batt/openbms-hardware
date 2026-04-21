@@ -4779,6 +4779,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 142.24 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "19"
 			(uuid "478b121e-b612-46ac-88c7-76749ecda64b")
 		)
@@ -4915,6 +4924,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RC0402FR-07100KL"
+			(at 82.55 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 82.55 139.7 0)
 			(effects
 				(font
@@ -5149,6 +5167,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 321.31 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bdbddc2a-e7f4-4e38-9672-982ad573950c")
 		)
@@ -5247,6 +5274,15 @@
 		)
 		(property "Manufacturer_Part_Number" "3521100RFT"
 			(at 302.26 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
+			(at 302.26 100.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5489,6 +5525,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 156.21 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5327952e-8696-40cb-b8b7-206897f56872")
 		)
@@ -5582,6 +5627,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 116.84 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6e186fc9-af32-4c96-967a-aadf0fad3400")
 		)
@@ -5667,6 +5721,15 @@
 			)
 		)
 		(property "Package" "DO-214AC"
+			(at 76.2 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 76.2 106.68 90)
 			(effects
 				(font
@@ -5771,6 +5834,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 92.71 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b756d4c7-7f25-4b78-bb0d-51fcec5b7fdb")
 		)
@@ -5867,6 +5939,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 214.63 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "28238bdb-0a87-4cbe-bc59-69f15514613a")
 		)
@@ -5946,6 +6027,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RC0402FR-07100KL"
+			(at 170.18 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 170.18 187.96 0)
 			(effects
 				(font
@@ -6039,6 +6129,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "CR0402AJ/-000GAS"
+			(at 138.43 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 138.43 187.96 0)
 			(effects
 				(font
@@ -6211,6 +6310,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 147.32 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a4a51df3-6820-4344-8d03-213a215bc31d")
 		)
@@ -6296,6 +6404,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RC0402FR-07100KL"
+			(at 292.1 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 292.1 105.41 0)
 			(effects
 				(font
@@ -6455,6 +6572,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SEWF3920D2L00P9"
+			(at 83.82 212.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 83.82 212.09 90)
 			(effects
 				(font
@@ -6629,6 +6755,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 160.02 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5ee2e72a-f79e-4583-8d5a-df4700c61308")
 		)
@@ -6711,6 +6846,15 @@
 			)
 		)
 		(property "Package" "SOT-323"
+			(at 289.56 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 289.56 125.73 0)
 			(effects
 				(font
@@ -7029,6 +7173,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 171.45 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c001e798-be21-452a-9ae0-eeb06c5409d0")
 		)
@@ -7113,6 +7266,15 @@
 			)
 		)
 		(property "Package" "1206"
+			(at 67.31 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 67.31 99.06 90)
 			(effects
 				(font
@@ -7215,6 +7377,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 281.94 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "35a25b6c-322e-4499-bd34-27382802291c")
 		)
@@ -7308,6 +7479,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 116.84 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8ccaadca-261d-49e3-97b1-e10791c6e37d")
 		)
@@ -7386,6 +7566,15 @@
 		)
 		(property "Package" "5-DFN (5x6) (8-SOFL)"
 			(at 156.21 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "NTMFS5C612NLT1G"
+			(at 156.21 101.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7495,6 +7684,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 116.84 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "71e383ae-aa99-491e-aa4a-03d3da972090")
 		)
@@ -7588,6 +7786,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 95.25 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f3371d68-298a-4488-85ab-d77d0b39f6ef")
 		)
@@ -7667,6 +7874,15 @@
 		)
 		(property "Package" "5-DFN (5x6) (8-SOFL)"
 			(at 175.26 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "NTMFS5C612NLT1G"
+			(at 175.26 101.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7852,6 +8068,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 114.3 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ad7ebb35-224a-4e82-8309-d1c9df6aea55")
 		)
@@ -8005,6 +8230,15 @@
 		)
 		(property "Manufacturer_Part_Number" "GRM155R71A104KA01D"
 			(at 175.26 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
+			(at 175.26 83.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8176,6 +8410,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 95.25 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ae1ec46d-44f4-4446-a8f1-7f250e016488")
 		)
@@ -8270,6 +8513,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 292.1 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "18e7b3af-065c-4c7b-8049-1e2ce7ab8ba0")
 		)
@@ -8355,6 +8607,15 @@
 			)
 		)
 		(property "Package" "DO-214AC"
+			(at 219.71 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 219.71 106.68 90)
 			(effects
 				(font

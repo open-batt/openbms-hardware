@@ -3109,22 +3109,22 @@
 		(uuid "87a16a1a-d8a1-4991-9cc2-6f11e21e2340")
 	)
 	(junction
-		(at 328.93 152.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0c58256a-a686-4d6f-9ca8-2a1c8b12d1dd")
-	)
-	(junction
 		(at 328.93 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0ca32e64-8a53-44f0-8ea4-a695422ad381")
+		(uuid "0981040d-f2e5-4177-b820-a8e39be53ba7")
 	)
 	(junction
 		(at 275.59 180.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0f62ab18-dbd6-4386-b85d-58c2cf73a8dd")
+	)
+	(junction
+		(at 328.93 194.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0fb6339e-030b-463b-9f6c-5869eb495680")
 	)
 	(junction
 		(at 327.66 113.03)
@@ -3151,10 +3151,22 @@
 		(uuid "1884fa39-0241-4497-b851-7fa10ee4fecc")
 	)
 	(junction
+		(at 328.93 217.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1cf2f82c-903c-426e-b58d-8a46d9fe4a8b")
+	)
+	(junction
 		(at 433.07 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1fe05b57-7cb7-45bc-bcc2-2162a7d5f50f")
+	)
+	(junction
+		(at 328.93 152.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2298b8a9-66fc-4ff5-a7df-93c8cc407287")
 	)
 	(junction
 		(at 472.44 191.77)
@@ -3175,16 +3187,22 @@
 		(uuid "282ec9be-790d-4719-9f67-b029c68fcabc")
 	)
 	(junction
+		(at 328.93 231.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2a81ff47-834f-4e55-b979-8618c7106ef1")
+	)
+	(junction
 		(at 172.72 295.91)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "319c6e54-4409-4376-9d86-eab4e93986c8")
 	)
 	(junction
-		(at 328.93 161.29)
+		(at 328.93 222.25)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "32c73818-a6a8-458b-8ead-44c9f5e2c58a")
+		(uuid "37223c4f-08be-428b-bd08-4a72113e9dd0")
 	)
 	(junction
 		(at 139.7 295.91)
@@ -3193,10 +3211,10 @@
 		(uuid "379504bb-40e2-4410-9604-84725dbf57aa")
 	)
 	(junction
-		(at 328.93 236.22)
+		(at 328.93 189.23)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "3bd565ac-017b-4a3c-b310-92b9ef231523")
+		(uuid "38762b76-e134-4561-91dd-67fedf1fb8d4")
 	)
 	(junction
 		(at 229.87 264.16)
@@ -3223,6 +3241,12 @@
 		(uuid "45ae8079-0880-4573-9f8e-5c9b257655dc")
 	)
 	(junction
+		(at 328.93 203.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "468914ba-92af-4647-a4c1-b619e9a04f74")
+	)
+	(junction
 		(at 172.72 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3235,22 +3259,10 @@
 		(uuid "4b2ea172-464f-4e35-be88-e742bd333ea8")
 	)
 	(junction
-		(at 328.93 175.26)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4d41cf9c-21c2-47b3-a626-23f9a2fcaeef")
-	)
-	(junction
 		(at 424.18 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4e847c7b-28e4-45d9-8598-3546ca00d7af")
-	)
-	(junction
-		(at 328.93 189.23)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5b08e905-14ed-4adf-b102-750a135316b0")
 	)
 	(junction
 		(at 172.72 146.05)
@@ -3277,12 +3289,6 @@
 		(uuid "6050cc6a-ed87-4ce8-a2fe-bcec984228ec")
 	)
 	(junction
-		(at 328.93 203.2)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "635553ea-c515-4bd1-916c-b0884c194ca7")
-	)
-	(junction
 		(at 139.7 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3305,6 +3311,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7a170d61-d052-432f-82c2-708b5254f027")
+	)
+	(junction
+		(at 328.93 236.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7d225ca9-4a5a-4719-8008-427232058708")
 	)
 	(junction
 		(at 139.7 114.3)
@@ -3331,28 +3343,16 @@
 		(uuid "80e04019-55d2-4bd9-91cf-1102bd71ddcf")
 	)
 	(junction
-		(at 328.93 194.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "92f6b90b-92e4-4ff5-ae56-a66cfa7ed6ba")
-	)
-	(junction
 		(at 294.64 294.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "979c6cfa-c055-4281-9760-683e4a13ebd2")
 	)
 	(junction
-		(at 328.93 222.25)
+		(at 328.93 166.37)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "9830fcfe-af46-472a-9897-bd248d6fa2b9")
-	)
-	(junction
-		(at 328.93 208.28)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9ad5891f-66a5-4b76-9822-ec3bea448ced")
+		(uuid "97cd0668-796b-4d19-93ae-64dd85882cca")
 	)
 	(junction
 		(at 472.44 184.15)
@@ -3421,12 +3421,6 @@
 		(uuid "b857719a-a521-447d-ac03-b69ef09373c3")
 	)
 	(junction
-		(at 328.93 166.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bf08e02c-15ff-4966-aa2c-8b1909de9dc1")
-	)
-	(junction
 		(at 240.03 171.45)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3439,6 +3433,12 @@
 		(uuid "c256bd54-68f8-41e6-9f94-270ac70e1f28")
 	)
 	(junction
+		(at 328.93 175.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c63a47ff-a01c-40de-a2f7-6775c5e19dbe")
+	)
+	(junction
 		(at 212.09 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3449,6 +3449,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c89bffa3-c38a-4721-9090-64edc6c5c742")
+	)
+	(junction
+		(at 328.93 161.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cade25f5-8971-48ea-bc3a-2edc81262798")
 	)
 	(junction
 		(at 156.21 231.14)
@@ -3467,18 +3473,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dc2bb270-6f55-411b-8167-dc5e1586866d")
-	)
-	(junction
-		(at 328.93 180.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dcccd1f6-973c-4b2d-8f99-63233625e652")
-	)
-	(junction
-		(at 328.93 217.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dfa199b3-1798-4981-9445-378b6ea21876")
 	)
 	(junction
 		(at 240.03 224.79)
@@ -3511,6 +3505,12 @@
 		(uuid "e4483900-2fa5-43e5-aa9e-86743ee0c08b")
 	)
 	(junction
+		(at 328.93 208.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ed05ef19-3ca8-4ffd-be81-cadeba35c995")
+	)
+	(junction
 		(at 228.6 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3529,16 +3529,16 @@
 		(uuid "f49f8294-cade-4132-93e8-8860653feb14")
 	)
 	(junction
+		(at 328.93 180.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f5a1fd54-0670-4bfd-8627-d2f99b29e883")
+	)
+	(junction
 		(at 415.29 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f910c2c0-ec55-4d13-802f-a69bf26122be")
-	)
-	(junction
-		(at 328.93 231.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ffe7655f-bdb6-4b8e-be0d-8ebd672fb692")
 	)
 	(no_connect
 		(at 158.75 350.52)
@@ -3733,16 +3733,6 @@
 			(type default)
 		)
 		(uuid "050dfffa-509e-4435-92f1-e9b45eafe479")
-	)
-	(wire
-		(pts
-			(xy 325.12 161.29) (xy 328.93 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "05f70a06-7c20-43f9-8d58-57fe23e6b962")
 	)
 	(wire
 		(pts
@@ -3976,7 +3966,17 @@
 	)
 	(wire
 		(pts
-			(xy 328.93 161.29) (xy 335.28 161.29)
+			(xy 328.93 217.17) (xy 335.28 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16ffd84f-96d5-405b-b8e6-b4932ff23b7c")
+	)
+	(wire
+		(pts
+			(xy 325.12 161.29) (xy 328.93 161.29)
 		)
 		(stroke
 			(width 0)
@@ -3993,6 +3993,16 @@
 			(type default)
 		)
 		(uuid "19cf6045-d33b-48e1-b9a2-480c4fd013a9")
+	)
+	(wire
+		(pts
+			(xy 328.93 189.23) (xy 335.28 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a8355e8-822b-4fc7-a031-f6a3b54dcc13")
 	)
 	(wire
 		(pts
@@ -4063,6 +4073,16 @@
 			(type default)
 		)
 		(uuid "2094f926-e1ef-49ac-9230-8bd84e26e83d")
+	)
+	(wire
+		(pts
+			(xy 328.93 161.29) (xy 335.28 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20c080e9-a77a-49eb-b5df-f7fc116ff2a0")
 	)
 	(wire
 		(pts
@@ -4186,6 +4206,16 @@
 	)
 	(wire
 		(pts
+			(xy 328.93 147.32) (xy 335.28 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29d05af0-ffe9-4318-b6ee-ee0d0295fb66")
+	)
+	(wire
+		(pts
 			(xy 228.6 179.07) (xy 228.6 180.34)
 		)
 		(stroke
@@ -4253,16 +4283,6 @@
 			(type default)
 		)
 		(uuid "2e9e2b4c-ccff-410a-a1a9-2565a1491af7")
-	)
-	(wire
-		(pts
-			(xy 328.93 175.26) (xy 335.28 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2ed67581-c7f5-40c4-a708-9aea41340756")
 	)
 	(wire
 		(pts
@@ -4616,6 +4636,16 @@
 	)
 	(wire
 		(pts
+			(xy 328.93 175.26) (xy 335.28 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4627020b-b735-45a7-8a47-9d9ad9890d0c")
+	)
+	(wire
+		(pts
 			(xy 153.67 271.78) (xy 153.67 274.32)
 		)
 		(stroke
@@ -4676,6 +4706,16 @@
 	)
 	(wire
 		(pts
+			(xy 328.93 222.25) (xy 335.28 222.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48113974-651a-4ba7-92a9-ce43b4bbea30")
+	)
+	(wire
+		(pts
 			(xy 240.03 118.11) (xy 240.03 124.46)
 		)
 		(stroke
@@ -4706,7 +4746,7 @@
 	)
 	(wire
 		(pts
-			(xy 328.93 217.17) (xy 335.28 217.17)
+			(xy 325.12 217.17) (xy 328.93 217.17)
 		)
 		(stroke
 			(width 0)
@@ -4936,6 +4976,16 @@
 	)
 	(wire
 		(pts
+			(xy 328.93 236.22) (xy 335.28 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ce4399f-0a32-4d7d-aaab-bda7a033770d")
+	)
+	(wire
+		(pts
 			(xy 337.82 120.65) (xy 337.82 123.19)
 		)
 		(stroke
@@ -5026,7 +5076,7 @@
 	)
 	(wire
 		(pts
-			(xy 328.93 222.25) (xy 335.28 222.25)
+			(xy 325.12 222.25) (xy 328.93 222.25)
 		)
 		(stroke
 			(width 0)
@@ -5256,16 +5306,6 @@
 	)
 	(wire
 		(pts
-			(xy 325.12 231.14) (xy 328.93 231.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6ced7f9c-067c-4b60-8547-1af75dd486e6")
-	)
-	(wire
-		(pts
 			(xy 212.09 217.17) (xy 212.09 214.63)
 		)
 		(stroke
@@ -5283,6 +5323,16 @@
 			(type default)
 		)
 		(uuid "6eec653c-b72d-4ce7-aee2-131b97e3d54c")
+	)
+	(wire
+		(pts
+			(xy 328.93 203.2) (xy 335.28 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f4497b6-0f42-4bf3-8f7a-33c66b31f1bb")
 	)
 	(wire
 		(pts
@@ -5333,16 +5383,6 @@
 			(type default)
 		)
 		(uuid "728ac690-9ac1-4241-a75f-24ad553c3230")
-	)
-	(wire
-		(pts
-			(xy 325.12 166.37) (xy 328.93 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "73344563-7139-4eb1-b24e-45d89830c361")
 	)
 	(wire
 		(pts
@@ -5456,7 +5496,7 @@
 	)
 	(wire
 		(pts
-			(xy 328.93 166.37) (xy 335.28 166.37)
+			(xy 325.12 166.37) (xy 328.93 166.37)
 		)
 		(stroke
 			(width 0)
@@ -5596,6 +5636,16 @@
 	)
 	(wire
 		(pts
+			(xy 328.93 194.31) (xy 335.28 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7fa297b3-2471-4a31-bef1-6238b864eadd")
+	)
+	(wire
+		(pts
 			(xy 337.82 113.03) (xy 327.66 113.03)
 		)
 		(stroke
@@ -5646,16 +5696,6 @@
 	)
 	(wire
 		(pts
-			(xy 328.93 189.23) (xy 335.28 189.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "837561af-b58b-4fea-a563-a945e54e03b2")
-	)
-	(wire
-		(pts
 			(xy 445.77 233.68) (xy 443.23 233.68)
 		)
 		(stroke
@@ -5683,16 +5723,6 @@
 			(type default)
 		)
 		(uuid "842f576b-5d4e-44bc-a4a2-505dd9d434e3")
-	)
-	(wire
-		(pts
-			(xy 328.93 152.4) (xy 335.28 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "84429865-7f6d-4aa7-acd2-440cbd7a77c6")
 	)
 	(wire
 		(pts
@@ -5743,16 +5773,6 @@
 			(type default)
 		)
 		(uuid "8794a662-8941-4b3e-91c4-3ea5808caf77")
-	)
-	(wire
-		(pts
-			(xy 325.12 222.25) (xy 328.93 222.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "87badaf1-9ab1-4e93-8469-d2b9aeb00509")
 	)
 	(wire
 		(pts
@@ -5823,16 +5843,6 @@
 			(type default)
 		)
 		(uuid "8c7f62ba-5bc4-466b-ade4-62438675fcf1")
-	)
-	(wire
-		(pts
-			(xy 328.93 208.28) (xy 335.28 208.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e58a750-0472-49a0-a564-59817f2ee5c1")
 	)
 	(wire
 		(pts
@@ -5956,16 +5966,6 @@
 	)
 	(wire
 		(pts
-			(xy 328.93 180.34) (xy 335.28 180.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "988fd6f3-84e5-4ced-bf62-44610d3c1252")
-	)
-	(wire
-		(pts
 			(xy 228.6 187.96) (xy 228.6 193.04)
 		)
 		(stroke
@@ -5983,6 +5983,16 @@
 			(type default)
 		)
 		(uuid "9ae4754b-c97e-415d-a3ef-5ec13130c78d")
+	)
+	(wire
+		(pts
+			(xy 328.93 180.34) (xy 335.28 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b01cde5-364d-4e3b-b0cd-eb1a90c1ab5e")
 	)
 	(wire
 		(pts
@@ -6043,16 +6053,6 @@
 			(type default)
 		)
 		(uuid "9f863187-7b89-4cab-9d19-54049538c33a")
-	)
-	(wire
-		(pts
-			(xy 328.93 236.22) (xy 335.28 236.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9faa8426-aca7-4f35-9419-4329a912cef1")
 	)
 	(wire
 		(pts
@@ -6136,16 +6136,6 @@
 	)
 	(wire
 		(pts
-			(xy 325.12 203.2) (xy 328.93 203.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a90400f8-85f1-48a6-aa55-d989d95ef6a9")
-	)
-	(wire
-		(pts
 			(xy 172.72 224.79) (xy 172.72 222.25)
 		)
 		(stroke
@@ -6183,16 +6173,6 @@
 			(type default)
 		)
 		(uuid "aae87097-7f80-429e-96b3-33b6b53a8d7c")
-	)
-	(wire
-		(pts
-			(xy 328.93 147.32) (xy 335.28 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "abe86eb9-71f2-404b-8f8b-649f6be51bb7")
 	)
 	(wire
 		(pts
@@ -6586,16 +6566,6 @@
 	)
 	(wire
 		(pts
-			(xy 325.12 217.17) (xy 328.93 217.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c4ec344b-8362-4b3f-9f68-e3f897869537")
-	)
-	(wire
-		(pts
 			(xy 158.75 130.81) (xy 161.29 130.81)
 		)
 		(stroke
@@ -6666,7 +6636,7 @@
 	)
 	(wire
 		(pts
-			(xy 328.93 231.14) (xy 335.28 231.14)
+			(xy 325.12 231.14) (xy 328.93 231.14)
 		)
 		(stroke
 			(width 0)
@@ -6936,6 +6906,16 @@
 	)
 	(wire
 		(pts
+			(xy 328.93 166.37) (xy 335.28 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d77f6dd6-b72d-4092-a41a-6093c3d2466a")
+	)
+	(wire
+		(pts
 			(xy 238.76 171.45) (xy 240.03 171.45)
 		)
 		(stroke
@@ -7026,16 +7006,6 @@
 	)
 	(wire
 		(pts
-			(xy 328.93 194.31) (xy 335.28 194.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd702761-6bd0-4ad5-bd09-427bf83b59a2")
-	)
-	(wire
-		(pts
 			(xy 223.52 199.39) (xy 223.52 198.12)
 		)
 		(stroke
@@ -7113,6 +7083,16 @@
 			(type default)
 		)
 		(uuid "e88fcad1-a460-401c-ad8a-9ede63785945")
+	)
+	(wire
+		(pts
+			(xy 328.93 152.4) (xy 335.28 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e89915d4-2d60-4511-b4f4-2985fea1ccd4")
 	)
 	(wire
 		(pts
@@ -7296,6 +7276,16 @@
 	)
 	(wire
 		(pts
+			(xy 328.93 208.28) (xy 335.28 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7c3a83f-a703-47d0-b4a8-b0bad5d228a1")
+	)
+	(wire
+		(pts
 			(xy 248.92 359.41) (xy 248.92 355.6)
 		)
 		(stroke
@@ -7356,7 +7346,7 @@
 	)
 	(wire
 		(pts
-			(xy 328.93 203.2) (xy 335.28 203.2)
+			(xy 325.12 203.2) (xy 328.93 203.2)
 		)
 		(stroke
 			(width 0)
@@ -7393,6 +7383,16 @@
 			(type default)
 		)
 		(uuid "fc94d905-2b61-4b0a-bf3f-797581d060d5")
+	)
+	(wire
+		(pts
+			(xy 328.93 231.14) (xy 335.28 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd0a854c-129e-4958-abc8-a5c4241e4e49")
 	)
 	(wire
 		(pts
@@ -8696,6 +8696,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 241.3 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "23a23e99-6945-4479-a95f-210fdd616321")
 		)
@@ -8775,6 +8784,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RC0402FR-07100KL"
+			(at 139.7 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 139.7 185.42 0)
 			(effects
 				(font
@@ -8997,6 +9015,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 157.48 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0c0b6a64-89d6-4e7b-957a-ab891da79a11")
 		)
@@ -9094,6 +9121,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 469.9 204.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7d8d864e-ed49-4b56-a0f3-26483e395a1c")
 		)
@@ -9171,6 +9207,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCF0402FT1K00"
+			(at 322.58 161.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 322.58 161.29 90)
 			(effects
 				(font
@@ -9331,6 +9376,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 223.52 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c036d1dc-1515-41ad-af12-eaf521a7ded9")
 		)
@@ -9408,6 +9462,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCF0402FT1K00"
+			(at 322.58 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 322.58 217.17 90)
 			(effects
 				(font
@@ -9537,6 +9600,15 @@
 			)
 		)
 		(property "Package" "SOT-563"
+			(at 228.6 365.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 228.6 365.76 0)
 			(effects
 				(font
@@ -9709,6 +9781,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 212.09 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "acaf8e79-e79c-4505-a359-750a1d1929db")
 		)
@@ -9796,6 +9877,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 228.6 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c24b12b8-ca80-4e9f-8977-ae210a9c4ed4")
 		)
@@ -9875,6 +9965,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCF0402FT10K0"
+			(at 139.7 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 139.7 227.33 0)
 			(effects
 				(font
@@ -10036,6 +10135,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 322.58 152.4 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a90fdbb2-e225-4688-9c89-85d9325014ec")
 		)
@@ -10114,6 +10222,15 @@
 		)
 		(property "Manufacturer_Part_Number" "GRM1555C1H180JA01D"
 			(at 480.06 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
+			(at 480.06 191.77 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10209,6 +10326,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 327.66 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bce8313c-1639-41fd-86ea-0908c3fb4ef7")
 		)
@@ -10288,6 +10414,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCF0402FT68K0"
+			(at 229.87 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 229.87 292.1 0)
 			(effects
 				(font
@@ -10383,6 +10518,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 212.09 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4b5f28a1-8681-42b9-8019-29441220f73e")
 		)
@@ -10462,6 +10606,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RC0402FR-07100KL"
+			(at 240.03 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 240.03 219.71 0)
 			(effects
 				(font
@@ -10752,6 +10905,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 139.7 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d54f0054-4740-44c7-bacb-d145e5a4f486")
 		)
@@ -10829,6 +10991,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCF0402FT1K00"
+			(at 322.58 222.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 322.58 222.25 90)
 			(effects
 				(font
@@ -10989,6 +11160,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 228.6 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e8df7a3b-b8f5-4733-b158-ded2a14593da")
 		)
@@ -11069,6 +11249,15 @@
 		)
 		(property "Package" "5.0 x 3.2"
 			(at 472.44 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
+			(at 472.44 187.96 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11228,6 +11417,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 223.52 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "446c198c-e028-4b11-85fa-7258baa134da")
 		)
@@ -11238,6 +11436,103 @@
 			(project "openbms"
 				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808/44c0cfe5-542a-476d-9fa1-75e9132622a6"
 					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 328.93 163.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2bd4673a-2bdf-4c35-8964-45c637569231")
+		(property "Reference" "C11"
+			(at 331.47 162.5662 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 331.47 165.1062 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 328.93 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 328.93 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 328.93 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 328.93 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM155R71A104KA01D"
+			(at 328.93 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
+			(at 328.93 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e0752dcd-9264-4cad-9596-4d4428c9ac1b")
+		)
+		(pin "1"
+			(uuid "a2b4616a-4ce9-4200-9f2a-c1f32f85e5ab")
+		)
+		(instances
+			(project "openbms"
+				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808/44c0cfe5-542a-476d-9fa1-75e9132622a6"
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -11307,6 +11602,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCF0402FT10K0"
+			(at 172.72 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 172.72 227.33 0)
 			(effects
 				(font
@@ -11392,6 +11696,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SBAT54CWT1G"
+			(at 264.16 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 264.16 180.34 0)
 			(effects
 				(font
@@ -11488,6 +11801,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 469.9 196.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "75b8277d-fe21-4ab3-8582-9a6c76f6ee75")
 		)
@@ -11567,6 +11889,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RNCL2512FT50R0"
+			(at 158.75 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 158.75 127 0)
 			(effects
 				(font
@@ -11662,6 +11993,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 294.64 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4f72f89c-f3ce-46f7-9ba1-8e7509236397")
 		)
@@ -11745,6 +12085,103 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 328.93 219.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "367426f4-5157-4d97-80a6-beff6d5bb1e7")
+		(property "Reference" "C18"
+			(at 331.47 218.4462 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 331.47 220.9862 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 328.93 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 328.93 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 328.93 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 328.93 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM155R71A104KA01D"
+			(at 328.93 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
+			(at 328.93 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f4fdc878-7a98-4886-80d7-fbbc9da29d24")
+		)
+		(pin "1"
+			(uuid "f503d6c2-d6fa-4526-b90c-45cfe4133bd0")
+		)
+		(instances
+			(project "openbms"
+				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808/44c0cfe5-542a-476d-9fa1-75e9132622a6"
+					(reference "C18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 270.51 306.07 0)
 		(unit 1)
@@ -11804,94 +12241,6 @@
 			(project "openbms"
 				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808/44c0cfe5-542a-476d-9fa1-75e9132622a6"
 					(reference "#PWR032")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 328.93 177.8 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3d9ac1b0-b326-41cb-90cc-0516f9da8782")
-		(property "Reference" "C13"
-			(at 331.47 176.5362 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10n"
-			(at 331.47 179.0762 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 328.93 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 328.93 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 328.93 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" "0402"
-			(at 328.93 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "C0402C103K5REC7411"
-			(at 328.93 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c878beae-9a2b-42da-99bb-55943df33b1e")
-		)
-		(pin "1"
-			(uuid "cbdaefbc-253f-450b-b3f0-37eea5046aa0")
-		)
-		(instances
-			(project "openbms"
-				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808/44c0cfe5-542a-476d-9fa1-75e9132622a6"
-					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -12027,6 +12376,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCF0402FT10K0"
+			(at 139.7 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 139.7 300.99 0)
 			(effects
 				(font
@@ -12189,6 +12547,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 344.17 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "528881eb-a847-437a-82f5-5a9729548040")
 		)
@@ -12330,6 +12697,15 @@
 			)
 		)
 		(property "Package" "SOT-563"
+			(at 227.33 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 227.33 139.7 0)
 			(effects
 				(font
@@ -12503,6 +12879,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 337.82 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6c7ab050-f3b8-4b2b-b32d-538155275019")
 		)
@@ -12588,6 +12973,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 322.58 175.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "73916caf-38c3-4682-bdda-2d3abb41d911")
 		)
@@ -12665,6 +13059,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCF0402FT100R"
+			(at 317.5 113.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 317.5 113.03 90)
 			(effects
 				(font
@@ -12822,6 +13225,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 157.48 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "24829149-500f-4cca-ad1c-0224816d9f55")
 		)
@@ -12921,6 +13333,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 153.67 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "78a63f21-7854-4f15-a23e-99a0b264dbe9")
 		)
@@ -13008,6 +13429,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 172.72 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1f499250-6600-472c-ab16-a18ea28eae4a")
 		)
@@ -13087,6 +13517,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RNCL2512FT50R0"
+			(at 158.75 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 158.75 203.2 0)
 			(effects
 				(font
@@ -13236,6 +13675,15 @@
 			)
 		)
 		(property "Package" "SOT-563"
+			(at 227.33 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 227.33 246.38 0)
 			(effects
 				(font
@@ -13405,6 +13853,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 228.6 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "251697de-d47b-49e2-ba59-60b70371c87f")
 		)
@@ -13496,6 +13953,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "ERA-2AEB332X"
+			(at 223.52 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 223.52 248.92 0)
 			(effects
 				(font
@@ -13764,6 +14230,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 274.32 316.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "ca7adbea-2c92-41a4-9697-e3a96686bd21")
 		)
@@ -13863,6 +14338,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 228.6 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "46be5fbc-f7ab-4d9c-95e2-c5bbf134f434")
 		)
@@ -13941,6 +14425,15 @@
 		)
 		(property "Manufacturer_Part_Number" "GRM1555C1H180JA01D"
 			(at 480.06 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
+			(at 480.06 184.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14027,6 +14520,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RC0402FR-07100KL"
+			(at 240.03 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 240.03 113.03 0)
 			(effects
 				(font
@@ -14182,93 +14684,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 328.93 233.68 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "61de5b71-4162-4c10-980b-8474d727f299")
-		(property "Reference" "C20"
-			(at 331.47 232.4162 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10n"
-			(at 331.47 234.9562 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 328.93 233.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 328.93 233.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 328.93 233.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" "0402"
-			(at 328.93 233.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "C0402C103K5REC7411"
-			(at 328.93 233.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "7f40dd5b-8e20-4c79-9815-76c8fcd66fc5")
-		)
-		(pin "1"
-			(uuid "865b7258-0d9c-4d6f-ae95-ad6545071e14")
-		)
-		(instances
-			(project "openbms"
-				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808/44c0cfe5-542a-476d-9fa1-75e9132622a6"
-					(reference "C20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:L")
 		(at 405.13 142.24 270)
 		(mirror x)
@@ -14332,6 +14747,15 @@
 			)
 		)
 		(property "Package" "0402"
+			(at 405.13 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 405.13 142.24 90)
 			(effects
 				(font
@@ -14533,6 +14957,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 157.48 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "be7f5f13-a1e5-4762-95f1-5706ba1d5cf0")
 		)
@@ -14697,6 +15130,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 255.27 129.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fa455065-be0f-4d0a-bcde-04220d71fc62")
 		)
@@ -14777,6 +15219,15 @@
 		)
 		(property "Manufacturer_Part_Number" "RC0402FR-07100KL"
 			(at 255.27 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
+			(at 255.27 236.22 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14871,6 +15322,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 248.92 353.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0f3a0d56-6960-4a35-9d47-5e4e463afd3d")
 		)
@@ -14950,6 +15410,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RNCL2512FT50R0"
+			(at 158.75 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 158.75 276.86 0)
 			(effects
 				(font
@@ -15110,6 +15579,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 229.87 355.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f8202a3c-de2b-4168-9681-45fd3cf1b875")
 		)
@@ -15190,6 +15668,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GRM155R71A104KA01D"
+			(at 344.17 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 344.17 109.22 0)
 			(effects
 				(font
@@ -15285,6 +15772,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 139.7 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "64f159c7-590c-4da1-ab74-70e38c1a9788")
 		)
@@ -15362,6 +15858,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCF0402FT1K00"
+			(at 322.58 147.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 322.58 147.32 90)
 			(effects
 				(font
@@ -15522,6 +16027,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 139.7 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "87fbb94d-226e-474f-832c-71c04bd9b4f3")
 		)
@@ -15609,6 +16123,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 240.03 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "adf0796b-776d-4f05-93e6-c5cf5a3055a8")
 		)
@@ -15686,6 +16209,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCF0402FT1K00"
+			(at 322.58 189.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 322.58 189.23 90)
 			(effects
 				(font
@@ -15846,6 +16378,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 139.7 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "247a5d02-b7e3-4e59-a72a-05de6ef82003")
 		)
@@ -15933,6 +16474,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 172.72 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bcb108f3-2dad-49fb-af05-8b729803b293")
 		)
@@ -16012,6 +16562,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "ERA-2AEB332X"
+			(at 228.6 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 228.6 195.58 0)
 			(effects
 				(font
@@ -16168,6 +16727,103 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 328.93 205.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8ad139e0-fdbb-492e-a988-6749f4ca274a")
+		(property "Reference" "C17"
+			(at 331.47 204.4762 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 331.47 207.0162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 328.93 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 328.93 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 328.93 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 328.93 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM155R71A104KA01D"
+			(at 328.93 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
+			(at 328.93 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "30adf37a-47d3-4881-888a-8b451d385773")
+		)
+		(pin "1"
+			(uuid "aab6f073-4987-4dfd-a0d3-c5ca56270dba")
+		)
+		(instances
+			(project "openbms"
+				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808/44c0cfe5-542a-476d-9fa1-75e9132622a6"
+					(reference "C17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 223.52 182.88 180)
 		(unit 1)
@@ -16231,6 +16887,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCF0402FT68K0"
+			(at 223.52 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 223.52 182.88 0)
 			(effects
 				(font
@@ -16388,16 +17053,16 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 328.93 163.83 0)
+		(at 328.93 177.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "919c582c-e659-46cf-83da-bf1b10e78296")
-		(property "Reference" "C11"
-			(at 331.47 162.5662 0)
+		(uuid "8f5909dc-bbc9-427a-9a38-004c8a3f3610")
+		(property "Reference" "C13"
+			(at 331.47 176.5362 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16405,8 +17070,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10n"
-			(at 331.47 165.1062 0)
+		(property "Value" "100n"
+			(at 331.47 179.0762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16415,7 +17080,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 328.93 163.83 0)
+			(at 328.93 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16424,7 +17089,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 328.93 163.83 0)
+			(at 328.93 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16433,7 +17098,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 328.93 163.83 0)
+			(at 328.93 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16442,7 +17107,7 @@
 			)
 		)
 		(property "Package" "0402"
-			(at 328.93 163.83 0)
+			(at 328.93 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16450,8 +17115,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0402C103K5REC7411"
-			(at 328.93 163.83 0)
+		(property "Manufacturer_Part_Number" "GRM155R71A104KA01D"
+			(at 328.93 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16459,87 +17124,8 @@
 				(hide yes)
 			)
 		)
-		(pin "2"
-			(uuid "bda0036d-3875-4c1f-813e-0c68a11c6b02")
-		)
-		(pin "1"
-			(uuid "58796ba3-2f56-4e1b-bf49-7516e0cec133")
-		)
-		(instances
-			(project "openbms"
-				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808/44c0cfe5-542a-476d-9fa1-75e9132622a6"
-					(reference "C11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 328.93 191.77 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "949e32a6-0c85-4c8b-be44-d21b2858203c")
-		(property "Reference" "C15"
-			(at 331.47 190.5062 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10n"
-			(at 331.47 193.0462 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 328.93 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 328.93 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 328.93 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" "0402"
-			(at 328.93 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "C0402C103K5REC7411"
-			(at 328.93 191.77 0)
+		(property "Pakcage" ""
+			(at 328.93 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16548,15 +17134,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "392cdc09-001d-44be-8f31-1fefb8e740a6")
+			(uuid "cd405dc2-fccf-4897-a156-2b4240b5ef93")
 		)
 		(pin "1"
-			(uuid "9a13bd73-16e2-4384-b447-af6879eb6433")
+			(uuid "83f90aac-0f08-4019-9b26-f8141d0ba1d3")
 		)
 		(instances
 			(project "openbms"
 				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808/44c0cfe5-542a-476d-9fa1-75e9132622a6"
-					(reference "C15")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -16626,6 +17212,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "ERA-2AEB332X"
+			(at 229.87 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 229.87 302.26 0)
 			(effects
 				(font
@@ -16711,6 +17306,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SBAT54CWT1G"
+			(at 264.16 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 264.16 127 0)
 			(effects
 				(font
@@ -16872,6 +17476,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 322.58 194.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "59c8ddc3-f8e3-4b72-8b0f-005815b80278")
 		)
@@ -16949,6 +17562,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SBAT54CWT1G"
+			(at 264.16 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 264.16 233.68 0)
 			(effects
 				(font
@@ -17047,6 +17669,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 153.67 328.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d88184c6-4175-44cd-861f-312d60859557")
 		)
@@ -17132,6 +17763,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 322.58 180.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bfc33d3e-8c63-4589-8d45-ce5f5425fbaa")
 		)
@@ -17142,6 +17782,103 @@
 			(project "openbms"
 				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808/44c0cfe5-542a-476d-9fa1-75e9132622a6"
 					(reference "R26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 328.93 233.68 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ad436faa-16d4-487c-bc97-c7979fda14f4")
+		(property "Reference" "C20"
+			(at 331.47 232.4162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 331.47 234.9562 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 328.93 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 328.93 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 328.93 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 328.93 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM155R71A104KA01D"
+			(at 328.93 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
+			(at 328.93 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1995d577-50c0-404e-b379-4220507aed16")
+		)
+		(pin "1"
+			(uuid "00701fa0-95ea-46d6-9025-1e25497751ca")
+		)
+		(instances
+			(project "openbms"
+				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808/44c0cfe5-542a-476d-9fa1-75e9132622a6"
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -17284,6 +18021,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 223.52 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f932dec0-4aab-46c7-8d36-575e643f89da")
 		)
@@ -17363,6 +18109,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RC0402FR-07100KL"
+			(at 139.7 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 139.7 119.38 0)
 			(effects
 				(font
@@ -17459,6 +18214,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 461.01 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "278e9665-eae6-4f26-8dd5-746ff8c734b1")
 		)
@@ -17547,6 +18311,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 463.55 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "12660311-86e6-48b4-b212-5cc46d2b2026")
 		)
@@ -17626,6 +18399,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RC0402FR-07100KL"
+			(at 172.72 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 172.72 259.08 0)
 			(effects
 				(font
@@ -17786,6 +18568,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 172.72 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c3ee4da0-b869-4c31-b9f4-06e1daf2620a")
 		)
@@ -17871,6 +18662,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 322.58 236.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "27893e1f-313c-43e8-9a0d-23fb5651cbb3")
 		)
@@ -17881,94 +18681,6 @@
 			(project "openbms"
 				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808/44c0cfe5-542a-476d-9fa1-75e9132622a6"
 					(reference "R59")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 328.93 205.74 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ba01f5bd-d59f-4491-9a5d-04fbc96a470f")
-		(property "Reference" "C17"
-			(at 331.47 204.4762 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10n"
-			(at 331.47 207.0162 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 328.93 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 328.93 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 328.93 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" "0402"
-			(at 328.93 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "C0402C103K5REC7411"
-			(at 328.93 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e8280ed4-9e1b-4de1-a249-1348efb7c773")
-		)
-		(pin "1"
-			(uuid "e5e0ad9b-602e-4c45-bac6-a0ab66385aaa")
-		)
-		(instances
-			(project "openbms"
-				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808/44c0cfe5-542a-476d-9fa1-75e9132622a6"
-					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -18038,6 +18750,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RC0402FR-07100KL"
+			(at 172.72 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 172.72 185.42 0)
 			(effects
 				(font
@@ -18125,6 +18846,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RC0402FR-07100KL"
+			(at 139.7 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 139.7 259.08 0)
 			(effects
 				(font
@@ -18351,6 +19081,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 461.01 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "92fed9a6-113b-40df-a452-ea5e1d109528")
 		)
@@ -18436,6 +19175,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 469.9 209.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "17f7d28e-5090-440b-95ab-055862abde3b")
 		)
@@ -18513,6 +19261,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCF0402FT1K00"
+			(at 322.58 208.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 322.58 208.28 90)
 			(effects
 				(font
@@ -18649,6 +19406,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 157.48 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "e9914a8f-c811-4bd8-bb02-ace174e030a8")
 		)
@@ -18742,6 +19508,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "C0402C103K5REC7411"
+			(at 433.07 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 433.07 146.05 0)
 			(effects
 				(font
@@ -18870,6 +19645,15 @@
 			)
 		)
 		(property "Package" "SOT-563"
+			(at 157.48 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 157.48 243.84 0)
 			(effects
 				(font
@@ -19104,6 +19888,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 227.33 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a7904324-4743-45cf-952a-3d549ab895e1")
 		)
@@ -19203,6 +19996,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 255.27 177.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2d472579-7f73-4798-8517-920772029257")
 		)
@@ -19283,6 +20085,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GRM155R71A104KA01D"
+			(at 450.85 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 450.85 147.32 0)
 			(effects
 				(font
@@ -19378,6 +20189,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 228.6 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1d1876e9-7213-494f-ad23-70ded0ebc429")
 		)
@@ -19457,6 +20277,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCF0402FT68K0"
+			(at 223.52 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 223.52 236.22 0)
 			(effects
 				(font
@@ -19615,6 +20444,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 469.9 199.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ad597717-7645-41b3-afda-3c97d7dcf498")
 		)
@@ -19692,6 +20530,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RC0402FR-07100RL"
+			(at 469.9 212.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 469.9 212.09 90)
 			(effects
 				(font
@@ -19785,6 +20632,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 469.9 201.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "51489f25-4320-437b-abec-76a8d981bcf5")
 		)
@@ -19870,6 +20726,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 317.5 123.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f2cacc07-6f04-40d4-918e-b3a779bf7ab8")
 		)
@@ -19880,94 +20745,6 @@
 			(project "openbms"
 				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808/44c0cfe5-542a-476d-9fa1-75e9132622a6"
 					(reference "R8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 328.93 149.86 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d9190a59-a6c6-41a4-bfc3-ced38e30b061")
-		(property "Reference" "C10"
-			(at 331.47 148.5962 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10n"
-			(at 331.47 151.1362 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 328.93 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 328.93 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 328.93 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" "0402"
-			(at 328.93 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "C0402C103K5REC7411"
-			(at 328.93 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "5f05c431-aef5-4a98-b8a4-3ed25de431eb")
-		)
-		(pin "1"
-			(uuid "7b965634-71f8-46f9-a6a3-e2c95474c7ca")
-		)
-		(instances
-			(project "openbms"
-				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808/44c0cfe5-542a-476d-9fa1-75e9132622a6"
-					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -20239,6 +21016,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 157.48 285.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "81c04e57-b24b-4508-aac4-f09815899536")
 		)
@@ -20336,6 +21122,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 322.58 166.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ce9952af-5d04-44a8-94de-f3560b90ae90")
 		)
@@ -20423,6 +21218,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 139.7 347.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "693d36f4-594d-4ac5-be7a-c8d130db78a5")
 		)
@@ -20433,6 +21237,103 @@
 			(project "openbms"
 				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808/44c0cfe5-542a-476d-9fa1-75e9132622a6"
 					(reference "R75")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 328.93 149.86 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e2f572d2-7b2d-437f-8567-52b2b8679a8f")
+		(property "Reference" "C10"
+			(at 331.47 148.5962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 331.47 151.1362 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 328.93 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 328.93 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 328.93 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 328.93 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM155R71A104KA01D"
+			(at 328.93 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
+			(at 328.93 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f9c83baf-634c-41bb-9c2e-cd6c35c60c4c")
+		)
+		(pin "1"
+			(uuid "97ecf85c-77c2-4c28-8d95-82c7f5f88dda")
+		)
+		(instances
+			(project "openbms"
+				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808/44c0cfe5-542a-476d-9fa1-75e9132622a6"
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -20551,6 +21452,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 157.48 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "007507bf-5bcd-43ab-a82c-1b6cbd0972f6")
 		)
@@ -20648,6 +21558,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 322.58 231.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cab4b5b7-eb45-4df6-8135-c37f79b7ab4e")
 		)
@@ -20735,6 +21654,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 255.27 231.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "288a01ce-09e8-4a97-8bdc-417763d3f585")
 		)
@@ -20798,6 +21726,33 @@
 		)
 		(property "Description" "8-channel, 24-bit, simultaneous sampling Delta-Sigma ADC, 32kSPS, G=1..128 PGA, SPI interface, integrated 1.2V reference, TQFP-32 (Texas PBS / S-PQFP-G32)"
 			(at 504.19 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ADS131M08IPBS"
+			(at 443.23 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "32-TQFP"
+			(at 443.23 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
+			(at 443.23 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20982,6 +21937,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 228.6 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c832fae4-c60c-4ad6-8583-f9d9a4ecc78c")
 		)
@@ -20992,94 +21956,6 @@
 			(project "openbms"
 				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808/44c0cfe5-542a-476d-9fa1-75e9132622a6"
 					(reference "R13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 328.93 219.71 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ec348984-45eb-40fa-b8f4-bf730edced9c")
-		(property "Reference" "C18"
-			(at 331.47 218.4462 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10n"
-			(at 331.47 220.9862 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 328.93 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 328.93 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 328.93 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" "0402"
-			(at 328.93 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "C0402C103K5REC7411"
-			(at 328.93 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "fa4e2d28-41bc-4579-924d-0ade20cf5c7d")
-		)
-		(pin "1"
-			(uuid "917d5cdb-afad-457d-ad1f-7ac50e21af08")
-		)
-		(instances
-			(project "openbms"
-				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808/44c0cfe5-542a-476d-9fa1-75e9132622a6"
-					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -21149,6 +22025,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RNCL2512FT50R0"
+			(at 153.67 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 153.67 127 0)
 			(effects
 				(font
@@ -21309,6 +22194,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 172.72 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "74ed1471-a588-4c8f-8570-3d31a7e7a4ff")
 		)
@@ -21388,6 +22282,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RC0402FR-07100KL"
+			(at 172.72 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 172.72 195.58 0)
 			(effects
 				(font
@@ -21485,6 +22388,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 424.18 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f563c69e-db8a-4f7a-8314-e352db9d7276")
 		)
@@ -21564,6 +22476,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RC0402FR-07100KL"
+			(at 212.09 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 212.09 113.03 0)
 			(effects
 				(font
@@ -21659,6 +22580,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 255.27 182.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "947e1851-245c-4d29-bd2d-8a7b3f5c2df5")
 		)
@@ -21736,6 +22666,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCF0402FT1K00"
+			(at 322.58 203.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 322.58 203.2 90)
 			(effects
 				(font
@@ -21831,6 +22770,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 255.27 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "aae9aeb6-a1d3-4f5b-8dc3-2b6094679e40")
 		)
@@ -21912,6 +22860,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "C0402C105K8PACTU"
+			(at 415.29 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 415.29 146.05 0)
 			(effects
 				(font
@@ -22072,6 +23029,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 153.67 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "639e9da6-9c3d-4fb0-8969-858763cb55da")
 		)
@@ -22224,6 +23190,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 172.72 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5e956edf-df75-4bbc-a2c0-a00932fe92e7")
 		)
@@ -22234,6 +23209,103 @@
 			(project "openbms"
 				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808/44c0cfe5-542a-476d-9fa1-75e9132622a6"
 					(reference "R65")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 328.93 191.77 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ffc727b1-3168-481c-b9ac-aa9ad82434d4")
+		(property "Reference" "C15"
+			(at 331.47 190.5062 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 331.47 193.0462 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 328.93 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 328.93 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 328.93 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 328.93 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM155R71A104KA01D"
+			(at 328.93 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
+			(at 328.93 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "44bfc768-62f8-4baa-aed2-c9d96426429a")
+		)
+		(pin "1"
+			(uuid "8c642cbc-a335-43f3-802c-5eddad5bb791")
+		)
+		(instances
+			(project "openbms"
+				(path "/3abe05a4-d5e0-4a77-8655-1b6b9f639808/44c0cfe5-542a-476d-9fa1-75e9132622a6"
+					(reference "C15")
 					(unit 1)
 				)
 			)

@@ -1,0 +1,8 @@
+Layers: 4
+PCB thickness: 1.6mm
+Min hole size: 0.3mm
+Surface finish:  HASL lead free
+Min track/spacing:  6/6mil
+Solder mask: black
+Silkscreen: white
+Finished copper:  1 oz Cu (Inner Copper:1 oz)
