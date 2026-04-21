@@ -22,11 +22,11 @@ OpenBMS is an **open-source battery management system** for 2 to 7-cell Li-Ion a
 ## How OpenBMS fits into system?
 
 Battery system consists of:
-- 2 to 7-cell Li-ion/Li-po battery
+- Li-ion/Li-po battery - your custom 2 to 7-cell battery
 - OpenBMS
-- Host (I2C/CAN interfaces, wake-up signal)
-- 600W resistive load to discharge battery, check more at [OpenBMS-load-hardware](https://github.com/open-batt/openbms-load-hardware)
-- Charger
+- Host - I2C/CAN interfaces, wake-up signal, can be a microcontroller, computer, etc.
+- Load - your piece of equipment that draws energy from the battery. We also provide [OpenBMS-load-hardware](https://github.com/open-batt/openbms-load-hardware), a 600W resistive load for easier BMS development and testing
+- Charger - your custom charger, usually a CC/CV charger adjusted to your battery voltage and current
   
 <img src="images/openbms_system.jpg" alt="OpenBMS v3" width="80%" />
 <img src="images/openbms_system_discharging.jpg" alt="OpenBMS v3" width="80%" />
