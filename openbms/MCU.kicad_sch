@@ -5922,6 +5922,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 266.7 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "76a85aea-9a7d-4d2f-8cf6-149b9748279f")
 		)
@@ -6228,6 +6237,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 182.88 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "da94c854-f5a1-4882-8d1f-a4877962dc3f")
 		)
@@ -6308,6 +6326,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "BM03B-GHS-TBT"
+			(at 284.48 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 284.48 67.31 0)
 			(effects
 				(font
@@ -6536,6 +6563,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 40.64 100.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4de9a997-73f2-44bf-bb12-ede63088f23f")
 		)
@@ -6689,6 +6725,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 285.75 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "040e44e2-3a59-4017-b517-7d7728b902a3")
 		)
@@ -6783,6 +6828,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 262.89 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a6e16d03-e77c-4c90-ad28-5b5c1015f61c")
 		)
@@ -6862,6 +6916,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCF0402FT10K0"
+			(at 50.8 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 50.8 148.59 0)
 			(effects
 				(font
@@ -7023,6 +7086,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 248.92 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ba0c945a-17a2-428f-b716-26978bb4d913")
 		)
@@ -7175,6 +7247,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 63.5 187.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5f890b15-034f-43ca-8b8f-060c0abb4174")
 		)
@@ -7255,6 +7336,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GRM155R71A104KA01D"
+			(at 289.56 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 289.56 43.18 0)
 			(effects
 				(font
@@ -7415,6 +7505,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 171.45 209.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5703040b-417b-4e9b-9731-096055cc3f10")
 		)
@@ -7494,6 +7593,15 @@
 			)
 		)
 		(property "Package" "8-SOIC"
+			(at 158.75 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 158.75 218.44 0)
 			(effects
 				(font
@@ -7599,6 +7707,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RMCF0402FT10K0"
+			(at 143.51 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 143.51 85.09 0)
 			(effects
 				(font
@@ -7818,6 +7935,15 @@
 		)
 		(property "Manufacturer_Part_Number" "RC0402JR-074K7L"
 			(at 57.15 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
+			(at 57.15 187.96 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8313,6 +8439,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 262.89 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "501aa229-913f-4ea5-b40e-6f150ce1fee0")
 		)
@@ -8391,6 +8526,15 @@
 		)
 		(property "Manufacturer_Part_Number" "GRM1555C1H180JA01D"
 			(at 40.64 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
+			(at 40.64 107.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8749,6 +8893,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 271.78 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f0c506bf-6147-405a-a786-ee10ee7d585e")
 		)
@@ -9027,6 +9180,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "C0402C103K5REC7411"
+			(at 173.99 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 173.99 80.01 0)
 			(effects
 				(font
@@ -9320,6 +9482,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 231.14 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3345f2bf-130f-420d-a2be-989c26a34b00")
 		)
@@ -9605,6 +9776,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 280.67 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "11ddd631-98ea-4ae8-89ff-a1613ca4257f")
 		)
@@ -9824,6 +10004,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 48.26 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c2e0ba3d-fded-47ea-8e61-5a3e97616965")
 		)
@@ -9887,6 +10076,33 @@
 			)
 		)
 		(property "Description" "STMicroelectronics Arm Cortex-M4 MCU, 256KB flash, 64KB RAM, 80 MHz, 1.71-3.6V, 38 GPIO, UFQFPN48"
+			(at 161.29 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "STM32L431CCU6TR"
+			(at 161.29 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "48-UFQFPN"
+			(at 161.29 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 161.29 129.54 0)
 			(effects
 				(font
@@ -10123,6 +10339,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 50.8 187.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1ec498ce-cf46-4d05-85a3-1d8b3fc1d847")
 		)
@@ -10202,6 +10427,15 @@
 			)
 		)
 		(property "Package" "TC2030"
+			(at 45.72 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 45.72 71.12 0)
 			(effects
 				(font
@@ -10309,6 +10543,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 177.8 209.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4292e913-1547-465f-a0b6-94f9da96968e")
 		)
@@ -10387,6 +10630,15 @@
 			)
 		)
 		(property "Package" "0402"
+			(at 201.93 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 201.93 76.2 90)
 			(effects
 				(font
@@ -10549,6 +10801,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 191.77 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fe2dc0ae-6422-48a8-acb4-ee94eaf1dd59")
 		)
@@ -10629,6 +10890,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GRM155R71A104KA01D"
+			(at 133.35 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 133.35 223.52 0)
 			(effects
 				(font
@@ -10855,6 +11125,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 129.54 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c20900dd-c9f6-49b9-b3d3-d11cf95083ca")
 		)
@@ -11074,6 +11353,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 251.46 93.98 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "08afd5d6-bdda-4a96-9845-8a6a09f1aaa7")
 		)
@@ -11154,6 +11442,15 @@
 		)
 		(property "Manufacturer_Part_Number" "RC0402FR-07470RL"
 			(at 251.46 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
+			(at 251.46 101.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)

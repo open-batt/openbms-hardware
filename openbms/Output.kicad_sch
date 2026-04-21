@@ -1333,6 +1333,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 59.69 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "637e3913-d864-4653-99cb-08fd2ac77527")
 		)
@@ -1616,6 +1625,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 74.93 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fc5d1d42-9a23-494b-934a-3dffabdca7de")
 		)
@@ -1697,6 +1715,15 @@
 		)
 		(property "Package" "SOD-323"
 			(at 69.85 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
+			(at 69.85 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1857,6 +1884,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 92.71 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "93f19c11-3603-446d-b893-63b03d91e91a")
 		)
@@ -1937,6 +1973,15 @@
 			)
 		)
 		(property "Package" "7-pin JST connector"
+			(at 92.71 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 92.71 97.79 0)
 			(effects
 				(font
@@ -2048,6 +2093,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 80.01 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2b920d0e-f6ab-4fe0-90a9-e0594b8d3222")
 		)
@@ -2136,6 +2190,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 54.61 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "39673e59-d9e1-46c0-8b8e-69a47b59f72a")
 		)
@@ -2217,6 +2280,15 @@
 		)
 		(property "Package" "SOD-323"
 			(at 64.77 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
+			(at 64.77 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)

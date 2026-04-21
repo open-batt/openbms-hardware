@@ -2525,6 +2525,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 157.48 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "492fcc68-d046-46ca-a1c1-349ac6a50996")
 		)
@@ -2646,6 +2655,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 86.36 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cf06ff3d-670c-4341-aee5-e704d366be1b")
 		)
@@ -2732,6 +2750,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GRM155R71A104KA01D"
+			(at 218.44 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 218.44 74.93 0)
 			(effects
 				(font
@@ -2833,6 +2860,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 228.6 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e5f9b0c0-d343-4b1c-a42f-8f2fa543ddf9")
 		)
@@ -2919,6 +2955,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "CL31A106MBHNNNE"
+			(at 191.77 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 191.77 74.93 0)
 			(effects
 				(font
@@ -3091,6 +3136,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 119.38 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "70365c0d-0b5f-40ff-8771-ee3bef529ea9")
 		)
@@ -3185,6 +3239,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 104.14 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bb1004f7-3932-42f7-9939-4b0b3ac84a4a")
 		)
@@ -3271,6 +3334,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "CL31A106MBHNNNE"
+			(at 209.55 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 209.55 74.93 0)
 			(effects
 				(font
@@ -3445,6 +3517,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 77.47 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "643249d3-8e1f-4ed8-b35e-9df00dfa875c")
 		)
@@ -3602,6 +3683,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RC0402FR-07100KL"
+			(at 133.35 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 133.35 109.22 0)
 			(effects
 				(font
@@ -3778,6 +3868,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 116.84 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dccf4fe2-7e4f-45e3-a0ea-b5c75b1cde32")
 		)
@@ -3874,6 +3973,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 109.22 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ce53d2b1-0916-4889-ab1d-fb846764f307")
 		)
@@ -3960,6 +4068,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "CL31A106MBHNNNE"
+			(at 200.66 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 200.66 74.93 0)
 			(effects
 				(font
@@ -4197,6 +4314,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RC0402FR-07100KL"
+			(at 119.38 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 119.38 104.14 0)
 			(effects
 				(font
@@ -4512,6 +4638,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 101.6 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5062ff65-cc81-4c82-acf9-8d2a16fd932d")
 		)
@@ -4753,6 +4888,15 @@
 				(hide yes)
 			)
 		)
+		(property "Pakcage" ""
+			(at 95.25 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "79cb9cb6-eb31-4b0d-9441-579703416b93")
 		)
@@ -4842,6 +4986,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "BSS84AKW,115"
+			(at 130.81 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pakcage" ""
 			(at 130.81 96.52 0)
 			(effects
 				(font
