@@ -1,9 +1,9 @@
 # OpenBMS
 
-![Hardware](https://img.shields.io/badge/hardware-KiCAD-314CB0)
-![Firmware](https://img.shields.io/badge/firmware-STM32-03234B)
-![License](https://img.shields.io/badge/license-MIT-7c5cbf)
-![License](https://img.shields.io/badge/license-CERN--OHL--S--v2-7c5cbf)
+![Hardware](https://img.shields.io/badge/Hardware-KiCAD-314CB0)
+![Firmware](https://img.shields.io/badge/Firmware-STM32-03234B)
+![License](https://img.shields.io/badge/License-MIT-7c5cbf)
+![License](https://img.shields.io/badge/License-CERN--OHL--S--v2-7c5cbf)
 
 OpenBMS is an **open-source battery management system** for 2 to 7-cell Li-Ion and Li-Po battery packs. A fully integrated hardware and firmware solution for battery management and protection, providing:
 -  **Fuel gauge** — measure battery capacity, state of charge, and state of health
@@ -14,23 +14,27 @@ OpenBMS is an **open-source battery management system** for 2 to 7-cell Li-Ion a
 
 <table>
   <tr>
-    <td><img src="images/openbms-v3.png" alt="OpenBMS v3" width="100%" /></td>
-    <td><img src="images/openbms-v2.png" alt="OpenBMS v4" width="76%" /></td>
+    <td><img src="images_videos/image_2.jpg" alt="OpenBMS v3" width="100%" /></td>
+    <td><img src="images_videos/image_3.jpg" alt="OpenBMS v4" width="99%" /></td>
   </tr>
 </table>
 
 ## How OpenBMS fits into system?
 
 Battery system consists of:
-- Li-ion/Li-po battery - your custom 2 to 7-cell battery
-- OpenBMS
-- Host - I2C/CAN interfaces, wake-up signal, can be a microcontroller, computer, etc.
-- Load - your piece of equipment that draws energy from the battery. We also provide [OpenBMS-load-hardware](https://github.com/open-batt/openbms-load-hardware), a 600W resistive load for easier BMS development and testing
-- Charger - your custom charger, usually a CC/CV charger adjusted to your battery voltage and current
-  
-<img src="images/openbms_system.jpg" alt="OpenBMS v3" width="80%" />
-<img src="images/openbms_system_discharging.jpg" alt="OpenBMS v3" width="80%" />
-<img src="images/openbms_system_charging.jpg" alt="OpenBMS v3" width="80%" />
+- **Li-ion/Li-Po battery** — your custom 2- to 7-cell battery
+- **OpenBMS** — battery management system that handles fuel gauging, cell balancing, learning algorithms, overcharge/overdischarge/overheat protection, and communication with chargers and microcontrollers
+- [**Test Bench**](https://github.com/open-batt/openbms-test-bench-hardware) — a 600W dissipative resistive load for easier BMS development and testing
+- **Host** — I2C/CAN interfaces, wake-up signal, can be a microcontroller, computer, etc.
+- **Charger** — your custom charger, usually a CC/CV charger adjusted to your battery voltage and current
+- [**OpenBMS Studio**](https://github.com/open-batt/openbms-studio) — a PC software for configuring and monitoring the BMS, visualizing data, and updating firmware using UART communication
+
+<br/>
+
+<video width="100%" autoplay muted loop playsinline>
+  <source src="images_videos/video_2.mp4" type="video/mp4" />
+</video>
+
 
 
 ## ❤️ Funding
@@ -49,15 +53,13 @@ Learn more at the [NLnet project page](https://nlnet.nl/project/OpenBMS).
 
 | Module | Status |
 |--------|--------|
-| OpenBMS Schematics | ✅ Done |
-| OpenBMS PCB Layout | ✅ Done |
-| OpenBMS Hardware | 🏭 Manufacturing |
-| Firmware & Algorithms | 🔜 Planned |
-| Desktop app |  🚧 In progress |
-| Test Platform Development (OpenBMS Load) Schematic & PCB Layout |  ✅ Done |
-| OpenBMS Load Hardware | 🏭 Manufacturing |
-| BMS Tests |  ❌ Not started |
-| Documentation | ❌ Not started |
+| OpenBMS Schematics & PCB Layout | ✅ Done |
+| OpenBMS Test Bench Schematic & PCB Layout | ✅ Done |
+| OpenBMS Firmware & Battery Algorithms (STM32) | 🚧 In progress |
+| Desktop App (OpenBMS Studio) |  🚧 In progress |
+| BMS, Test Bench & Battery Tests |  🔜 Planned |
+| Revision B (Hardware improvements) |  ❌ Not started |
+| Documentation & Final Release | ❌ Not started |
 
 ## Features
 
