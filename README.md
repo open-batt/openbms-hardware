@@ -19,6 +19,11 @@ OpenBMS is an **open-source battery management system** for 2 to 7-cell Li-Ion a
   </tr>
 </table>
 
+## Related repositories
+
+[OpenBMS-firmware](https://github.com/open-batt/openbms-firmware)  
+[OpenBMS-load-hardware](https://github.com/open-batt/openbms-load-hardware)
+
 ## How OpenBMS fits into system?
 
 Battery system consists of:
