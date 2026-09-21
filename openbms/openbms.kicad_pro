@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.3048
         }
       },
       "diff_pair_dimensions": [
@@ -726,7 +726,7 @@
     ],
     [
       "8aeffcc1-bfe4-45b7-adeb-55d5e06a12ef",
-      "Battery"
+      "Input"
     ],
     [
       "3320e5aa-8139-4260-8613-0d5ed87b8ab6",

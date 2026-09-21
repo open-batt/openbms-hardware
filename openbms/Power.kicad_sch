@@ -1694,6 +1694,10 @@
 		(color 0 0 0 0)
 		(uuid "ea078e5d-cc24-421c-997d-aa9e9406506f")
 	)
+	(no_connect
+		(at 170.18 77.47)
+		(uuid "0784a90e-d1c7-4caa-98c9-95be9479b2b3")
+	)
 	(wire
 		(pts
 			(xy 92.71 111.76) (xy 96.52 111.76)
@@ -1773,16 +1777,6 @@
 			(type default)
 		)
 		(uuid "1e8c672b-db67-4730-a514-a38ef0ffbd25")
-	)
-	(wire
-		(pts
-			(xy 170.18 77.47) (xy 173.99 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "32d4e298-ffd2-4406-9afc-83b7a3fe9bf2")
 	)
 	(wire
 		(pts
@@ -2267,20 +2261,6 @@
 			(justify right)
 		)
 		(uuid "8db243a7-b81e-40d7-9a8c-6204bfa11738")
-	)
-	(hierarchical_label "PWR_PG"
-		(shape output)
-		(at 173.99 77.47 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-				(color 132 0 0 1)
-			)
-			(justify left)
-		)
-		(uuid "b5da5604-2256-4e59-8100-3a28fec1696f")
 	)
 	(hierarchical_label "PWR_ON"
 		(shape input)
@@ -3831,7 +3811,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF"
 			(at 121.92 118.11 0)
 			(effects
 				(font
@@ -3841,7 +3821,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"
 			(at 116.84 114.3 0)
 			(effects
 				(font
