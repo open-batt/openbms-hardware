@@ -544,7 +544,7 @@
 						)
 					)
 				)
-				(number "3"
+				(number "6"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -580,7 +580,7 @@
 						)
 					)
 				)
-				(number "6"
+				(number "3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1523,7 +1523,7 @@
 				)
 			)
 		)
-		(property "Value" "TPS12100QDGXRQ1"
+		(property "Value" "TPS12000QDGXRQ1"
 			(at 19.05 -11.176 0)
 			(effects
 				(font
@@ -1560,7 +1560,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "PTPS12100QDGXRQ1"
+		(property "Manufacturer_Part_Number" "TPS12000QDGXRQ1"
 			(at -17.78 -3.048 0)
 			(effects
 				(font
@@ -1578,7 +1578,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_keywords" "TPS12100QDGXRQ1"
+		(property "ki_keywords" "TPS12000QDGXRQ1"
 			(at 0 0 0)
 			(effects
 				(font

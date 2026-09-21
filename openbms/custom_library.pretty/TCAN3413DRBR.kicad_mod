@@ -1,4 +1,4 @@
-(footprint "SON65P300X300X100-9N-D"
+(footprint "TCAN3413DRBR"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "SON65P300X300X100-9N-D"
+	(property "Value" "TCAN3413DRBR"
 		(at 0 0 0)
 		(layer "F.SilkS")
 		(hide yes)
@@ -177,6 +177,12 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "dc5b63cb-667b-4259-bd38-ead62a2ea2ad")
 	)
+	(pad "2" smd rect
+		(at 0 0)
+		(size 1.6 2.45)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6049fb33-c8f2-496b-98c0-6ff720d5f3a6")
+	)
 	(pad "3" smd rect
 		(at -1.45 0.325 90)
 		(size 0.35 0.85)
@@ -212,12 +218,6 @@
 		(size 0.35 0.85)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "72386c29-b782-4485-95f8-0cb0a5f1bcd0")
-	)
-	(pad "9" smd rect
-		(at 0 0)
-		(size 1.6 2.45)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "6049fb33-c8f2-496b-98c0-6ff720d5f3a6")
 	)
 	(embedded_fonts no)
 	(model "${KIPRJMOD}/3D models/TCAN3413DRBR.stp"

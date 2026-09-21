@@ -1,4 +1,4 @@
-27240330021643309
+27240344320565370
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -107954,19 +107954,19 @@ QFN NoLead ST_UFQFPN48 Analog_CP-48-13 JEDEC_MO-220-WKKD-4
 65
 49
 custom_library
-SON65P300X300X100-9N-D
-DRB0008B
-Integrated Circuit
-0
-9
-9
-custom_library
 SOTFL50P162X60-6N
 SOT563
 Integrated Circuit
 0
 6
 6
+custom_library
+TCAN3413DRBR
+DRB0008B
+Integrated Circuit
+0
+9
+8
 custom_library
 TQFP-32_5x5mm_P0.5mm
 TQFP, 32 Pin (JEDEC MS-026 variation AAA, 1.00mm body thickness, https://www.jedec.org/document_search?search_api_views_fulltext=MS-026), generated with kicad-footprint-generator ipc_gullwing_generator.py
