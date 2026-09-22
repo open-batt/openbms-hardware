@@ -3155,7 +3155,7 @@
 				)
 			)
 		)
-		(property "Value" "3.3k"
+		(property "Value" "2k,0.1%"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3204,7 +3204,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERA-2AEB332X"
+		(property "Manufacturer_Part_Number" "RT0402BRD072KL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3337,7 +3337,7 @@
 				)
 			)
 		)
-		(property "Value" "68k"
+		(property "Value" "68k,0.1%"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3386,7 +3386,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RMCF0402FT68K0"
+		(property "Manufacturer_Part_Number" "RT0402BRD0768KL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4938,7 +4938,7 @@
 				)
 			)
 		)
-		(property "Value" "3.3k"
+		(property "Value" "2k,0.1%"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4987,7 +4987,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERA-2AEB332X"
+		(property "Manufacturer_Part_Number" "RT0402BRD072KL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5599,7 +5599,7 @@
 				)
 			)
 		)
-		(property "Value" "68k"
+		(property "Value" "68k,0.1%"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -5648,7 +5648,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RMCF0402FT68K0"
+		(property "Manufacturer_Part_Number" "RT0402BRD0768KL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5963,7 +5963,7 @@
 				)
 			)
 		)
-		(property "Value" "3.3k"
+		(property "Value" "2k,0.1%"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -6012,7 +6012,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERA-2AEB332X"
+		(property "Manufacturer_Part_Number" "RT0402BRD072KL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6872,7 +6872,7 @@
 				)
 			)
 		)
-		(property "Value" "3.3k"
+		(property "Value" "2k,0.1%"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -6921,7 +6921,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERA-2AEB332X"
+		(property "Manufacturer_Part_Number" "RT0402BRD072KL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10678,7 +10678,7 @@
 				)
 			)
 		)
-		(property "Value" "68k"
+		(property "Value" "68k,0.1%"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -10727,7 +10727,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RMCF0402FT68K0"
+		(property "Manufacturer_Part_Number" "RT0402BRD0768KL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13094,7 +13094,7 @@
 				)
 			)
 		)
-		(property "Value" "3.3k"
+		(property "Value" "2k,0.1%"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13143,7 +13143,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERA-2AEB332X"
+		(property "Manufacturer_Part_Number" "RT0402BRD072KL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13276,7 +13276,7 @@
 				)
 			)
 		)
-		(property "Value" "3.3k"
+		(property "Value" "2k,0.1%"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13325,7 +13325,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERA-2AEB332X"
+		(property "Manufacturer_Part_Number" "RT0402BRD072KL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13640,7 +13640,7 @@
 				)
 			)
 		)
-		(property "Value" "68k"
+		(property "Value" "68k,0.1%"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13689,7 +13689,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RMCF0402FT68K0"
+		(property "Manufacturer_Part_Number" "RT0402BRD0768KL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18205,7 +18205,7 @@
 				)
 			)
 		)
-		(property "Value" "68k"
+		(property "Value" "68k,0.1%"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -18254,7 +18254,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RMCF0402FT68K0"
+		(property "Manufacturer_Part_Number" "RT0402BRD0768KL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18387,7 +18387,7 @@
 				)
 			)
 		)
-		(property "Value" "3.3k"
+		(property "Value" "2k,0.1%"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -18436,7 +18436,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERA-2AEB332X"
+		(property "Manufacturer_Part_Number" "RT0402BRD072KL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20016,7 +20016,7 @@
 				)
 			)
 		)
-		(property "Value" "68k"
+		(property "Value" "68k,0.1%"
 			(at 0.845 1.17 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -20065,7 +20065,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RMCF0402FT68K0"
+		(property "Manufacturer_Part_Number" "RT0402BRD0768KL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26212,7 +26212,7 @@
 				)
 			)
 		)
-		(property "Value" "68k"
+		(property "Value" "68k,0.1%"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -26261,7 +26261,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RMCF0402FT68K0"
+		(property "Manufacturer_Part_Number" "RT0402BRD0768KL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28542,7 +28542,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1k,0.1%"
 			(at 0 -1.17 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -28595,7 +28595,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RMCF0402FT1K00"
+		(property "Manufacturer_Part_Number" "RT0402BRD071KL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -31914,7 +31914,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1k,0.1%"
 			(at 0 -1.17 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -31967,7 +31967,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RMCF0402FT1K00"
+		(property "Manufacturer_Part_Number" "RT0402BRD071KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -33075,7 +33075,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1k,0.1%"
 			(at 0 -1.17 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -33128,7 +33128,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RMCF0402FT1K00"
+		(property "Manufacturer_Part_Number" "RT0402BRD071KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -33265,7 +33265,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1k,0.1%"
 			(at 0 -1.17 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -33318,7 +33318,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RMCF0402FT1K00"
+		(property "Manufacturer_Part_Number" "RT0402BRD071KL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -33455,7 +33455,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "3.3k"
+		(property "Value" "330R,0.1%"
 			(at 0 -1.17 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -33508,7 +33508,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERA-2AEB332X"
+		(property "Manufacturer_Part_Number" "RT0402BRD07330RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -39676,7 +39676,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1k,0.1%"
 			(at 0 -1.17 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -39729,7 +39729,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RMCF0402FT1K00"
+		(property "Manufacturer_Part_Number" "RT0402BRD071KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -39866,7 +39866,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1k,0.1%"
 			(at 0 -1.17 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -39919,7 +39919,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RMCF0402FT1K00"
+		(property "Manufacturer_Part_Number" "RT0402BRD071KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -40246,7 +40246,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1k,0.1%"
 			(at 0 -1.17 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -40299,7 +40299,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RMCF0402FT1K00"
+		(property "Manufacturer_Part_Number" "RT0402BRD071KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43553,7 +43553,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1k,0.1%"
 			(at 0 -1.17 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -43606,7 +43606,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RMCF0402FT1K00"
+		(property "Manufacturer_Part_Number" "RT0402BRD071KL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -45143,7 +45143,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1k,0.1%"
 			(at 0 -1.17 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -45196,7 +45196,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RMCF0402FT1K00"
+		(property "Manufacturer_Part_Number" "RT0402BRD071KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -45333,7 +45333,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1k,0.1%"
 			(at 0 -1.17 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -45386,7 +45386,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RMCF0402FT1K00"
+		(property "Manufacturer_Part_Number" "RT0402BRD071KL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -46618,7 +46618,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1k,0.1%"
 			(at 0 -1.17 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -46671,7 +46671,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RMCF0402FT1K00"
+		(property "Manufacturer_Part_Number" "RT0402BRD071KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -47188,7 +47188,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1k,0.1%"
 			(at 0 -1.17 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -47241,7 +47241,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RMCF0402FT1K00"
+		(property "Manufacturer_Part_Number" "RT0402BRD071KL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -49848,7 +49848,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1k,0.1%"
 			(at 0 -1.17 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -49901,7 +49901,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RMCF0402FT1K00"
+		(property "Manufacturer_Part_Number" "RT0402BRD071KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -71686,8 +71686,8 @@
 				(xy 103.372419 73.364202) (xy 103.372421 73.364201) (xy 103.372426 73.364201) (xy 103.448117 73.340614)
 				(xy 103.485006 73.335) (xy 103.735 73.335) (xy 103.735 73.219341) (xy 103.754685 73.152302) (xy 103.771319 73.13166)
 				(xy 103.79306 73.109919) (xy 103.879495 72.966938) (xy 103.929201 72.807426) (xy 103.9355 72.738107)
-				(xy 103.935499 72.251894) (xy 103.935499 72.251893) (xy 103.935499 72.251885) (xy 103.929884 72.190088)
-				(xy 103.929201 72.182574) (xy 103.879495 72.023062) (xy 103.864014 71.997453) (xy 103.793064 71.880086)
+				(xy 103.935499 72.251894) (xy 103.935499 72.251893) (xy 103.935499 72.251885) (xy 103.929201 72.182576)
+				(xy 103.9292 72.182571) (xy 103.879495 72.023062) (xy 103.879494 72.02306) (xy 103.793064 71.880086)
 				(xy 103.79306 71.880081) (xy 103.771319 71.85834) (xy 103.737834 71.797017) (xy 103.735 71.770659)
 				(xy 103.735 70.743125) (xy 103.736061 70.72694) (xy 103.749906 70.621776) (xy 103.749906 70.621775)
 				(xy 103.758284 70.590508) (xy 103.79574 70.500081) (xy 103.811923 70.47205) (xy 103.871513 70.394392)
