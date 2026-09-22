@@ -5489,6 +5489,20 @@
 		)
 		(uuid "6f85e5a4-5c66-43e0-896a-3b26d41a21e8")
 	)
+	(hierarchical_label "CURR_CAL"
+		(shape output)
+		(at 142.24 127 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(color 0 0 132 1)
+			)
+			(justify right)
+		)
+		(uuid "7608f237-c250-4fdc-857e-9075ecc41049")
+	)
 	(hierarchical_label "BATT_NTC_POS"
 		(shape input)
 		(at 45.72 142.24 180)
