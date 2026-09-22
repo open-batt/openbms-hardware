@@ -13,7 +13,7 @@
 		(comment 4 "Open Source Battery Management System")
 	)
 	(lib_symbols)
-	(text "- F - NTC 10k resistor connected to GND, should be connected to VCC\n- Green LED isn't good - it's side package\n- Add switch to enable boards\n- Adjust resistor for EN voltage on DRV driver and OV pin level\n- F - Dual NMOS + PMOS sch part is wrong\n- F - U14 GND_BATT connection reconsider again\n- F - Use 0.1% resistors for dividers\n- F - Measure SYS_VCC to detect charger\n- Add option to short current diff inputs for offset measuring\n- F - All resistor divider to BATT_GND\n- Connect SRC of FETs to driver properly\n- Lower value of crystal freq on ADC\n\n- PCB: footprint connect to zone (FETS)\n"
+	(text "- F - NTC 10k resistor connected to GND, should be connected to VCC\n- Green LED isn't good - it's side package\n- Add switch to enable boards\n- Adjust resistor for EN voltage on DRV driver and OV pin level\n- F - Dual NMOS + PMOS sch part is wrong\n- F - U14 GND_BATT connection reconsider again\n- F - Use 0.1% resistors for dividers\n- F - Measure SYS_VCC to detect charger\n- F - Add option to short current diff inputs for offset measuring\n- F - All resistor divider to BATT_GND\n- Connect SRC of FETs to driver properly\n- Lower value of crystal freq on ADC\n\n- PCB: footprint connect to zone (FETS)\n"
 		(exclude_from_sim no)
 		(at 259.08 28.448 0)
 		(effects
@@ -65,7 +65,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 167.64) (xy 254 167.64)
+			(xy 177.8 165.1) (xy 254 165.1)
 		)
 		(stroke
 			(width 0.381)
@@ -98,7 +98,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 162.56) (xy 254 162.56)
+			(xy 177.8 160.02) (xy 254 160.02)
 		)
 		(stroke
 			(width 0.381)
@@ -186,7 +186,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 182.88) (xy 254 182.88)
+			(xy 177.8 180.34) (xy 254 180.34)
 		)
 		(stroke
 			(width 0.381)
@@ -252,7 +252,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 180.34) (xy 254 180.34)
+			(xy 177.8 177.8) (xy 254 177.8)
 		)
 		(stroke
 			(width 0.381)
@@ -406,6 +406,17 @@
 	)
 	(wire
 		(pts
+			(xy 177.8 198.12) (xy 254 198.12)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 0 0 132 1)
+		)
+		(uuid "70edc245-2656-4faf-b33a-996f64601cfc")
+	)
+	(wire
+		(pts
 			(xy 284.48 135.89) (xy 312.42 135.89)
 		)
 		(stroke
@@ -417,7 +428,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 165.1) (xy 254 165.1)
+			(xy 177.8 162.56) (xy 254 162.56)
 		)
 		(stroke
 			(width 0.381)
@@ -516,7 +527,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 172.72) (xy 254 172.72)
+			(xy 177.8 170.18) (xy 254 170.18)
 		)
 		(stroke
 			(width 0.381)
@@ -527,7 +538,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 185.42) (xy 254 185.42)
+			(xy 177.8 182.88) (xy 254 182.88)
 		)
 		(stroke
 			(width 0.381)
@@ -582,7 +593,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 193.04) (xy 254 193.04)
+			(xy 177.8 190.5) (xy 254 190.5)
 		)
 		(stroke
 			(width 0.381)
@@ -692,7 +703,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 160.02) (xy 254 160.02)
+			(xy 177.8 157.48) (xy 254 157.48)
 		)
 		(stroke
 			(width 0.381)
@@ -703,7 +714,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 190.5) (xy 254 190.5)
+			(xy 177.8 187.96) (xy 254 187.96)
 		)
 		(stroke
 			(width 0.381)
@@ -714,7 +725,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 195.58) (xy 254 195.58)
+			(xy 177.8 193.04) (xy 254 193.04)
 		)
 		(stroke
 			(width 0.381)
@@ -769,7 +780,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 175.26) (xy 254 175.26)
+			(xy 177.8 172.72) (xy 254 172.72)
 		)
 		(stroke
 			(width 0.381)
@@ -846,7 +857,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 187.96) (xy 254 187.96)
+			(xy 177.8 185.42) (xy 254 185.42)
 		)
 		(stroke
 			(width 0.381)
@@ -891,7 +902,7 @@
 			)
 		)
 		(pin "CELL_1_BAL" output
-			(at 254 195.58 180)
+			(at 254 193.04 180)
 			(uuid "315a30ba-1cfa-4a95-828e-6e773ab88621")
 			(effects
 				(font
@@ -904,7 +915,7 @@
 			)
 		)
 		(pin "CELL_4_BAL" output
-			(at 254 187.96 180)
+			(at 254 185.42 180)
 			(uuid "0fbb9618-03f9-4711-ab6f-06a5cc0eab7f")
 			(effects
 				(font
@@ -917,7 +928,7 @@
 			)
 		)
 		(pin "CELL_7_BAL" output
-			(at 254 180.34 180)
+			(at 254 177.8 180)
 			(uuid "3e5e969a-7818-4d2d-a290-6d2877c0321c")
 			(effects
 				(font
@@ -930,7 +941,7 @@
 			)
 		)
 		(pin "CELL_5_BAL" output
-			(at 254 185.42 180)
+			(at 254 182.88 180)
 			(uuid "88f60cc2-8779-4cb1-b95f-e135ea638a4e")
 			(effects
 				(font
@@ -943,7 +954,7 @@
 			)
 		)
 		(pin "CELL_6_BAL" output
-			(at 254 182.88 180)
+			(at 254 180.34 180)
 			(uuid "ac4e09bb-1374-4310-93f1-d2e22039c574")
 			(effects
 				(font
@@ -956,7 +967,7 @@
 			)
 		)
 		(pin "CELL_3_BAL" output
-			(at 254 190.5 180)
+			(at 254 187.96 180)
 			(uuid "b29c2196-e8c6-4478-a296-735e50723a81")
 			(effects
 				(font
@@ -969,7 +980,7 @@
 			)
 		)
 		(pin "CELL_2_BAL" output
-			(at 254 193.04 180)
+			(at 254 190.5 180)
 			(uuid "8a4a132c-ef0d-48d1-8f26-1459d6da5676")
 			(effects
 				(font
@@ -982,7 +993,7 @@
 			)
 		)
 		(pin "SCLK" output
-			(at 254 160.02 180)
+			(at 254 157.48 180)
 			(uuid "4bc77d2f-7420-4020-bb4b-494ea69b767f")
 			(effects
 				(font
@@ -995,7 +1006,7 @@
 			)
 		)
 		(pin "~{CS}" output
-			(at 254 167.64 180)
+			(at 254 165.1 180)
 			(uuid "36bffba0-75e2-4793-956e-075d5931ab6e")
 			(effects
 				(font
@@ -1034,7 +1045,7 @@
 			)
 		)
 		(pin "MOSI" output
-			(at 254 165.1 180)
+			(at 254 162.56 180)
 			(uuid "51428703-1f86-4d0e-8ad2-0f49d67364c4")
 			(effects
 				(font
@@ -1060,7 +1071,7 @@
 			)
 		)
 		(pin "~{DRDY}" input
-			(at 254 175.26 180)
+			(at 254 172.72 180)
 			(uuid "f2e6db82-04fa-4962-972a-39f850165869")
 			(effects
 				(font
@@ -1073,7 +1084,7 @@
 			)
 		)
 		(pin "MISO" input
-			(at 254 162.56 180)
+			(at 254 160.02 180)
 			(uuid "cfb8a351-484d-420f-a662-a86d0c8c99e7")
 			(effects
 				(font
@@ -1125,7 +1136,7 @@
 			)
 		)
 		(pin "~{SYNC}" input
-			(at 254 172.72 180)
+			(at 254 170.18 180)
 			(uuid "fd31d282-d5be-4978-9f35-29d255afe32b")
 			(effects
 				(font
@@ -1257,6 +1268,19 @@
 		(pin "CHG_PRES" passive
 			(at 254 121.92 180)
 			(uuid "a9a20a2b-461c-4207-913f-aca926146e52")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "CURR_CAL" output
+			(at 254 198.12 180)
+			(uuid "bf3d5beb-8a51-4ee3-b018-b66c0a646061")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1460,7 +1484,7 @@
 			)
 		)
 		(pin "~{SYNC}" output
-			(at 177.8 172.72 0)
+			(at 177.8 170.18 0)
 			(uuid "b99f4dab-9534-405a-b5b1-f60c99d16821")
 			(effects
 				(font
@@ -1473,7 +1497,7 @@
 			)
 		)
 		(pin "CELL_5_BAL" input
-			(at 177.8 185.42 0)
+			(at 177.8 182.88 0)
 			(uuid "bd8be633-e911-4402-8a85-81c357e51a3d")
 			(effects
 				(font
@@ -1486,7 +1510,7 @@
 			)
 		)
 		(pin "CELL_4_BAL" input
-			(at 177.8 187.96 0)
+			(at 177.8 185.42 0)
 			(uuid "37d89980-8d7c-44f7-8296-0a705625a646")
 			(effects
 				(font
@@ -1499,7 +1523,7 @@
 			)
 		)
 		(pin "~{CS}" input
-			(at 177.8 167.64 0)
+			(at 177.8 165.1 0)
 			(uuid "7a75b9da-ff65-4369-963e-35472c69d2d9")
 			(effects
 				(font
@@ -1603,7 +1627,7 @@
 			)
 		)
 		(pin "CELL_7_BAL" input
-			(at 177.8 180.34 0)
+			(at 177.8 177.8 0)
 			(uuid "38fd0ce3-c08c-43a4-b42e-b138815b848f")
 			(effects
 				(font
@@ -1616,7 +1640,7 @@
 			)
 		)
 		(pin "CELL_1_BAL" input
-			(at 177.8 195.58 0)
+			(at 177.8 193.04 0)
 			(uuid "757328c1-0966-42d7-8153-fa9c9e0e804b")
 			(effects
 				(font
@@ -1629,7 +1653,7 @@
 			)
 		)
 		(pin "CELL_3_BAL" input
-			(at 177.8 190.5 0)
+			(at 177.8 187.96 0)
 			(uuid "98e31c03-6afc-4c90-bb88-42dc1cf45ae3")
 			(effects
 				(font
@@ -1642,7 +1666,7 @@
 			)
 		)
 		(pin "CELL_2_BAL" input
-			(at 177.8 193.04 0)
+			(at 177.8 190.5 0)
 			(uuid "a8ac8dfe-89f7-4c20-b741-b1b2e4c6787f")
 			(effects
 				(font
@@ -1655,7 +1679,7 @@
 			)
 		)
 		(pin "SCLK" input
-			(at 177.8 160.02 0)
+			(at 177.8 157.48 0)
 			(uuid "83116455-c9da-4474-b1e4-5042dad0f49d")
 			(effects
 				(font
@@ -1668,7 +1692,7 @@
 			)
 		)
 		(pin "MOSI" input
-			(at 177.8 165.1 0)
+			(at 177.8 162.56 0)
 			(uuid "961cdff9-1f48-4c5a-8c71-672063803bde")
 			(effects
 				(font
@@ -1681,7 +1705,7 @@
 			)
 		)
 		(pin "MISO" output
-			(at 177.8 162.56 0)
+			(at 177.8 160.02 0)
 			(uuid "b94e529a-a451-4995-a494-375cd04d5e09")
 			(effects
 				(font
@@ -1694,7 +1718,7 @@
 			)
 		)
 		(pin "CELL_6_BAL" input
-			(at 177.8 182.88 0)
+			(at 177.8 180.34 0)
 			(uuid "979ed063-aefe-44c2-88f4-edab4e45090f")
 			(effects
 				(font
@@ -1707,7 +1731,7 @@
 			)
 		)
 		(pin "~{DRDY}" output
-			(at 177.8 175.26 0)
+			(at 177.8 172.72 0)
 			(uuid "511d02e5-f143-49e6-ad1f-fe8cb6ffdc5e")
 			(effects
 				(font
@@ -1780,6 +1804,19 @@
 					(thickness 0.254)
 					(bold yes)
 					(color 132 0 132 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "CURR_CAL" input
+			(at 177.8 198.12 0)
+			(uuid "b04d26e5-6987-44af-8df6-7a4a2e7f880f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 0 132 1)
 				)
 				(justify right)
 			)
