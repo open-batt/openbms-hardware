@@ -21996,7 +21996,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:TQFP-32_5x5mm_P0.5mm"
+		(property "Footprint" "custom_library:TQFP-32_5x5mm_P0.5mm"
 			(at 494.03 255.27 0)
 			(effects
 				(font

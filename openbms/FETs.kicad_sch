@@ -8301,7 +8301,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:ONSemi_SO-8FL_488AA"
+		(property "Footprint" "custom_library:ONSemi_SO-8FL_488AA"
 			(at 158.115 96.52 0)
 			(effects
 				(font
@@ -8609,7 +8609,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:ONSemi_SO-8FL_488AA"
+		(property "Footprint" "custom_library:ONSemi_SO-8FL_488AA"
 			(at 173.355 96.52 0)
 			(effects
 				(font

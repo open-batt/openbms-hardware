@@ -1,4 +1,4 @@
-27240344320565370
+27242134568869953
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -107918,6 +107918,13 @@ Resistor
 0
 2
 2
+custom_library
+435451019820
+435451019820-2
+Switch
+0
+5
+3
 custom_library
 AMASS_XT60PW-F_1x02_P7.20mm_Horizontal
 Connector XT60 Horizontal PCB Female, https://www.tme.eu/Document/1191bc2fa3aee3c446e5a895fd8f7983/XT60PW-F.pdf

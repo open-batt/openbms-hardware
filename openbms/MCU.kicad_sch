@@ -10147,7 +10147,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm"
+		(property "Footprint" "custom_library:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm"
 			(at 148.59 165.1 0)
 			(effects
 				(font
