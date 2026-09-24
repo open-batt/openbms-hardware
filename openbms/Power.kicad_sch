@@ -3288,10 +3288,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "6025fcb0-d776-4147-8076-7f4d5be960af")
+			(uuid "6025fcb0-d776-4147-8076-7f4d5be960b0")
 		)
 		(pin "1"
-			(uuid "6639e342-af77-4785-a264-90cb790df709")
+			(uuid "6639e342-af77-4785-a264-90cb790df70a")
 		)
 		(instances
 			(project "openbms"
@@ -5611,7 +5611,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "9e36f335-fcf7-4386-91ab-ba9334efe04c")
+			(uuid "9e36f335-fcf7-4386-91ab-ba9334efe04d")
 		)
 		(instances
 			(project "openbms"
