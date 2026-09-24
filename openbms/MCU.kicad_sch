@@ -6,8 +6,8 @@
 	(paper "A3")
 	(title_block
 		(title "OpenBMS")
-		(date "2026-03-24")
-		(rev "A")
+		(date "2026-09-24")
+		(rev "B")
 		(comment 2 "More at openbatt.dev")
 		(comment 3 "Designed by OpenBatt team")
 		(comment 4 "Open Source Battery Management System")
@@ -8359,7 +8359,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "LTST-S270KGKT"
+		(property "Manufacturer_Part_Number" "LTST-C190GKT"
 			(at 262.89 93.98 0)
 			(effects
 				(font

@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "OpenBMS")
-		(date "2026-03-24")
-		(rev "A")
+		(date "2026-09-24")
+		(rev "B")
 		(comment 2 "More at openbatt.dev")
 		(comment 3 "Designed by OpenBatt team")
 		(comment 4 "Open Source Battery Management System")
@@ -1739,10 +1739,10 @@
 			(embedded_fonts no)
 		)
 	)
-	(text_box "About:\n- Buck converter generates 3.3V out of 4-35V, output up to 500mA. By defult, power converter is off and whole system too. To enable it, signal from outside WAKE_UP needs to be set to 1. After that, once STM32 controller gets on, it can continue keeping power on by setting PWR_ON signal to 1."
+	(text_box "About:\n- Buck converter generates 3.3V out of 4-35V, output up to 500mA. \n- By defult, power converter is off and whole system too. To enable it, signal from outside WAKE_UP needs to be set to 1. After that, once STM32 controller gets on, it can continue keeping power on by setting PWR_ON signal to 1.\n- You can also enable power supply by using on-board switch"
 		(exclude_from_sim no)
 		(at 19.05 17.78 0)
-		(size 81.28 15.24)
+		(size 85.09 15.24)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width 0.3048)
