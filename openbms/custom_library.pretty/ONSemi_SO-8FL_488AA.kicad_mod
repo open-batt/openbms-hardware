@@ -459,7 +459,6 @@
 		(at 0.745 0)
 		(size 4.055 4.56)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(zone_connect 0)
 		(thermal_bridge_angle 45)
 		(options
 			(clearance outline)
