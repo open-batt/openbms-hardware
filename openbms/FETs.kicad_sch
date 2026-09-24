@@ -8916,6 +8916,24 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "SOD-323"
+			(at 222.25 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "BAT54J"
+			(at 222.25 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e898153e-5c43-4226-8949-ee86c7bc62cf")
 		)
