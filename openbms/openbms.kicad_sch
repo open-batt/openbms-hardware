@@ -13,7 +13,7 @@
 		(comment 4 "Open Source Battery Management System")
 	)
 	(lib_symbols)
-	(text "- F - NTC 10k resistor connected to GND, should be connected to VCC\n- Green LED isn't good - it's side package\n- F - Add switch to enable boards\n- F - Adjust resistor for EN voltage on DRV driver and OV pin level\n- F - Dual NMOS + PMOS sch part is wrong\n- F - U14 GND_BATT connection reconsider again\n- F - Use 0.1% resistors for dividers\n- F - Measure SYS_VCC to detect charger\n- F - Add option to short current diff inputs for offset measuring\n- F - All resistor divider to BATT_GND\n- Connect SRC of FETs to driver properly\n\n- PCB: footprint connect to zone (FETS)\n"
+	(text "- F - NTC 10k resistor connected to GND, should be connected to VCC\n- Green LED isn't good - it's side package\n- F - Add switch to enable boards\n- F - Adjust resistor for EN voltage on DRV driver and OV pin level\n- F - Dual NMOS + PMOS sch part is wrong\n- F - U14 GND_BATT connection reconsider again\n- F - Use 0.1% resistors for dividers\n- F - Measure SYS_VCC to detect charger\n- F - Add option to short current diff inputs for offset measuring\n- F - All resistor divider to BATT_GND\n- F - Connect SRC of FETs to driver properly\n- F - PCB: footprint connect to zone (FETS)\n"
 		(exclude_from_sim no)
 		(at 259.08 28.448 0)
 		(effects
