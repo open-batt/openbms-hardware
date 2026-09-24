@@ -19,6 +19,9 @@ OpenBMS is an **open-source battery management system** for 2 to 7-cell Li-Ion a
   </tr>
 </table>
 
+## Rev B is out!
+Schematic and layout updated, fixes applied
+
 ## Related repositories
 
 [OpenBMS-firmware](https://github.com/open-batt/openbms-firmware)  
@@ -59,13 +62,11 @@ Learn more at the [NLnet project page](https://nlnet.nl/project/OpenBMS).
 
 | Module | Status |
 |--------|--------|
-| OpenBMS Schematics & PCB Layout | ✅ Done |
+| OpenBMS Schematics & PCB Layout Rev A| ✅ Done |
 | OpenBMS Test Bench Schematic & PCB Layout | ✅ Done |
-| OpenBMS Firmware & Battery Algorithms (STM32) | 🚧 In progress |
-| Desktop App (OpenBMS Studio) |  🚧 In progress |
-| BMS, Test Bench & Battery Tests |  🔜 Planned |
-| Revision B (Hardware improvements) |  ❌ Not started |
-| Documentation & Final Release | ❌ Not started |
+| Revision B (Hardware improvements) |  ✅ Done |
+| BMS, Test Bench & Battery Tests |  🚧 In progress |
+| Documentation & Final Release | 🚧 In progress |
 
 ## Features
 
