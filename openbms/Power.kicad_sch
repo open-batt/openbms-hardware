@@ -4746,7 +4746,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "Button"
 			(at 107.95 116.8399 90)
 			(effects
 				(font

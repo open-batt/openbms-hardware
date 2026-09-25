@@ -7476,7 +7476,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "32kbit EEPROM memory"
+		(property "Value" "256kbit EEPROM memory"
 			(at 161.544 225.552 0)
 			(effects
 				(font
