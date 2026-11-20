@@ -20,7 +20,7 @@ OpenBMS is an **open-source battery management system** for 2 to 7-cell Li-Ion a
 </table>
 
 ## Rev B is out!
-Schematic and layout updated, fixes applied
+Schematic and layout updated, fixes applied. To check how it works and known issues check: [RevB Hardware Bringup and Issues](OpenBMS%20RevB%20Hardware%20Bringup%20and%20Issues.pdf)
 
 ## Related repositories
 
@@ -70,7 +70,7 @@ Learn more at the [NLnet project page](https://nlnet.nl/project/OpenBMS).
 
 ## Features
 
-- 🔋 Supports pack voltages up to 30V and continuous currents up to 16A.
+- 🔋 Supports pack voltages up to 30V and continuous currents up to 19A.
 - ⚡ State of Charge (SoC) estimation using coulomb counting
 - 🩺 State of Health (SoH) monitoring with capacity fade tracking and internal resistance estimation
 - 📊 Per-cell voltage monitoring with 24-bit resolution
@@ -162,14 +162,14 @@ OpenBMS can be easily described with the following block diagram:
 | Communication interfaces                     | CAN bus (up to 1 Mbit/s), I2C (SMBus compatible)  |
 | Maximum pack voltage                         | 30.1V (7 cells × 4.3V)                            |
 | Minimum pack voltage                         | 4V (2 cells × 2V)                                 |
-| Maximum continuous current                   | 16A                                               |
+| Maximum continuous current                   | 19A                                               |
 | Maximum peak current                         | 20A (hardware trip)                               |
 | Current consumption (active, 7-cell, max)    | 6mA                                               |
 | Current consumption (active, 7-cell, typ)    | 4mA                                               |
 | Current consumption (active, 2-cell, max)    | 19mA                                              |
 | Current consumption (active, 2-cell, typ)    | 13mA                                              |
 | Power-down quiescent current                 | < 2 µA                                            |
-| Operating temperature range                  | -40°C to 85°C                                     |
+| Operating temperature range                  | -20°C to 85°C                                     |
 
 ## License
 
